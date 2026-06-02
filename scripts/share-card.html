@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,900&family=Spline+Sans+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#f3ede0; --ink:#211d17; --inksoft:#5a5347; --rule:#cfc4ad;
+    --pen:#b5281b; --ledger:#3f6f4e; --gold:#9a6b1f;
+    --mono:"Spline Sans Mono",monospace; --disp:"Fraunces",Georgia,serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{width:1200px;height:630px;overflow:hidden;background:var(--paper);color:var(--ink);
+       font-family:var(--disp);position:relative}
+  .grain{position:absolute;inset:0;opacity:.06;pointer-events:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+  .frame{position:absolute;inset:26px;border:2px solid var(--ink);}
+  .pad{position:absolute;inset:26px;padding:46px 54px;display:flex;flex-direction:column;justify-content:space-between}
+  .top{display:flex;justify-content:space-between;align-items:flex-start}
+  .brand{font-weight:600;font-size:22px;letter-spacing:-.01em}
+  .eyebrow{font-family:var(--mono);font-size:13px;letter-spacing:.22em;text-transform:uppercase;color:var(--pen);margin-top:6px}
+  .stamp{font-family:var(--disp);font-weight:600;font-size:30px;color:var(--pen);
+    border:2px solid var(--pen);border-radius:10px;padding:6px 14px;transform:rotate(-3deg);
+    box-shadow:inset 0 0 0 2px var(--paper),inset 0 0 0 3px var(--pen)}
+  h1{font-size:52px;line-height:1.02;font-weight:500;max-width:18ch;letter-spacing:-.015em}
+  h1 em{font-style:italic;color:var(--pen)}
+  .stat{display:flex;align-items:baseline;gap:22px}
+  .big{font-family:var(--mono);font-weight:600;font-size:104px;color:var(--pen);line-height:.9;
+    font-variant-numeric:tabular-nums}
+  .stat p{font-size:24px;color:var(--ink);max-width:14ch;line-height:1.25}
+  .stat p b{font-weight:600}
+  .foot{display:flex;justify-content:space-between;align-items:center;
+    border-top:1px solid var(--rule);padding-top:18px;
+    font-family:var(--mono);font-size:14px;color:var(--inksoft);letter-spacing:.04em}
+  .foot .url{color:var(--ink);font-weight:600}
+  .pen{color:var(--pen)}
+</style>
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="frame"></div>
+  <div class="pad">
+    <div class="top">
+      <div>
+        <div class="brand">🎒 Le Dossier FDS</div>
+        <div class="eyebrow">Enquête citoyenne · Écoles primaires · Gatineau</div>
+      </div>
+      <div class="stamp">A&nbsp;→&nbsp;F</div>
+    </div>
+
+    <h1>Où va l'argent des <em>levées de fonds</em> de nos écoles?</h1>
+
+    <div class="stat">
+      <div class="big">1,54 M$</div>
+      <p>amassés auprès des familles qui <b>dorment</b> dans les fonds au lieu de servir aux élèves.</p>
+    </div>
+
+    <div class="foot">
+      <span>28 écoles primaires · 7 ans de données · accès à l'information</span>
+      <span class="url">csspo-fds.vercel.app</span>
+    </div>
+  </div>
+</body>
+</html>

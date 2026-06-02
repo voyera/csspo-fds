@@ -4,9 +4,19 @@ import Nav from "@/components/Nav";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://csspo-fds.vercel.app"),
   title: "Le Dossier FDS — bulletin des écoles primaires du CSSPO",
   description:
     "Où va l'argent des levées de fonds et des dons dans les écoles primaires du Centre de services scolaire des Portages-de-l'Outaouais (Gatineau)? Un bulletin de A à F.",
+  openGraph: {
+    title: "Le Dossier FDS — où va l'argent des levées de fonds de nos écoles?",
+    description:
+      "Enquête citoyenne sur les fonds à destination spéciale des 28 écoles primaires du CSSPO (Gatineau), à partir de 7 ans de budgets obtenus par accès à l'information.",
+    url: "https://csspo-fds.vercel.app",
+    siteName: "Le Dossier FDS",
+    locale: "fr_CA",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
