@@ -88,22 +88,27 @@ export default function SchoolPage({ params }: { params: { code: string } }) {
         </div>
       </section>
 
-      {/* Trends */}
-      <section className="rise space-y-4" style={{ animationDelay: "180ms" }}>
-        <Eyebrow n="B" as="h2">Sur sept ans</Eyebrow>
-        <div className="grid gap-4 lg:grid-cols-2">
-          <div className="doc p-5">
-            <h3 className="font-display text-xl">Amassé vs dépensé</h3>
-            <p className="mb-3 mono text-[11px] uppercase tracking-widest text-inksoft">par année · * = budget provisoire</p>
-            <RaisedVsSpent history={s.history} />
-          </div>
-          <div className="doc p-5">
-            <h3 className="font-display text-xl">L'argent qui s'accumule</h3>
-            <p className="mb-3 mono text-[11px] uppercase tracking-widest text-inksoft">solde non dépensé en fin d'année</p>
-            <BalanceTrend history={s.history} />
-          </div>
-        </div>
-      </section>
+      {/* Trends — exclude provisional in-progress years (incomplete actuals) */}
+      {(() => {
+        const complete = s.history.filter((h) => !h.provisional);
+        return (
+          <section className="rise space-y-4" style={{ animationDelay: "180ms" }}>
+            <Eyebrow n="B" as="h2">Au fil des ans</Eyebrow>
+            <div className="grid gap-4 lg:grid-cols-2">
+              <div className="doc p-5">
+                <h3 className="font-display text-xl">Amassé vs dépensé</h3>
+                <p className="mb-3 mono text-[11px] uppercase tracking-widest text-inksoft">par année scolaire complète</p>
+                <RaisedVsSpent history={complete} />
+              </div>
+              <div className="doc p-5">
+                <h3 className="font-display text-xl">L'argent qui s'accumule</h3>
+                <p className="mb-3 mono text-[11px] uppercase tracking-widest text-inksoft">solde non dépensé en fin d'année</p>
+                <BalanceTrend history={complete} />
+              </div>
+            </div>
+          </section>
+        );
+      })()}
 
       {/* Budget sample */}
       <section className="rise space-y-4" style={{ animationDelay: "240ms" }}>

@@ -13,8 +13,9 @@ export type YearMetrics = {
   budgetRevenu: number;
   expenses: Record<string, number>;
   revenues: Record<string, number>;
-  expBudget: Record<string, number>;
-  revBudget: Record<string, number>;
+  propRev: { label: string; amount: number }[];
+  propExp: { label: string; amount: number }[];
+  propSource: "annexe-d" | "compte";
   granularity: number;
   spendThrough: number;
   hoardRatio: number;

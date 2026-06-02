@@ -16,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = json.loads((ROOT / "data" / "fds_raw.json").read_text())
+PROPOSED = json.loads((ROOT / "data" / "proposed_budget.json").read_text())
 OUT = ROOT / "app" / "data" / "schools.json"
 
 # code -> (name, _unused, total operating budget)
@@ -188,6 +189,20 @@ def main():
             m = year_metrics(rec)
             m["year"] = y
             m["provisional"] = y in PROVISIONAL
+            # proposed budget: prefer the descriptive Annexe D line items;
+            # fall back to the account report's lump budget columns.
+            prop = PROPOSED.get(y, {}).get(code)
+            if prop and (prop["revenus"] or prop["depenses"]):
+                m["propRev"] = prop["revenus"]
+                m["propExp"] = prop["depenses"]
+                m["propSource"] = "annexe-d"
+            else:
+                m["propRev"] = ([{"label": "Ventes & levées de fonds", "amount": m["budgetRevenu"]}]
+                                if m["budgetRevenu"] else [])
+                m["propExp"] = [{"label": k, "amount": v} for k, v in m["expBudget"].items()]
+                m["propSource"] = "compte"
+            m.pop("expBudget", None)
+            m.pop("revBudget", None)
             history.append(m)
         latest = next((h for h in history if h["year"] == LATEST), None)
         if latest is None:

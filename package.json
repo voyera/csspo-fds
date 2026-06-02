@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "data": "python3 scripts/extract_fds.py && python3 scripts/build_data.py"
+    "data": "python3 scripts/extract_fds.py && python3 scripts/extract_budget.py && python3 scripts/build_data.py"
   },
   "dependencies": {
     "next": "^14.2.35",
