@@ -13,6 +13,8 @@ export type YearMetrics = {
   budgetRevenu: number;
   expenses: Record<string, number>;
   revenues: Record<string, number>;
+  expBudget: Record<string, number>;
+  revBudget: Record<string, number>;
   granularity: number;
   spendThrough: number;
   hoardRatio: number;
@@ -21,7 +23,6 @@ export type YearMetrics = {
 export type School = {
   code: string;
   name: string;
-  sizeProxy: number;
   totalBudget: number;
   latest: YearMetrics;
   history: YearMetrics[];

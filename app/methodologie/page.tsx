@@ -49,7 +49,7 @@ export default function Methodologie() {
         <h2 className="font-display text-2xl">Les trois dimensions de la note</h2>
         <ol className="space-y-4">
           {[
-            { t: `💰 Capacité de financement · ${Math.round(W.fundraising * 100)} %`, d: "Combien l'école amasse, en valeur absolue et rapporté à sa taille (le budget du service de garde sert d'approximation du nombre d'élèves, faute de données d'effectif). Mesure la « puissance » de financement, pas une vertu en soi." },
+            { t: `💰 Capacité de financement · ${Math.round(W.fundraising * 100)} %`, d: "Combien l'école amasse en argent (levées de fonds, dons, intérêts), sans aucun ajustement selon la taille de l'école : on mesure la puissance de financement brute, pas un montant par élève. L'école qui amasse le plus obtient 100, les autres en proportion directe. Exemple : en 2024-25, l'école de la Forêt a amassé le plus (133 876 $) et obtient donc 100 ; Euclide-Lanthier, avec 72 107 $, obtient 54 (soit 72 107 ÷ 133 876). C'est une mesure de capacité, pas une vertu — amasser beaucoup reflète souvent un quartier plus aisé qu'un meilleur effort." },
             { t: `🎯 Argent dépensé pour les élèves · ${Math.round(W.spend * 100)} %`, d: "Le cœur de la reddition de comptes. Combine la part de l'argent disponible réellement dépensée et un facteur « anti-accumulation » : une école assise sur plusieurs années de réserve est pénalisée, car cet argent ne profite pas aux élèves actuels." },
             { t: `📋 Rigueur budgétaire · ${Math.round(W.rigour * 100)} %`, d: "À quel point l'école ventile ses dépenses en postes détaillés, l'écart entre son budget et ses résultats réels, et le fait qu'elle prévoie ou non ses revenus." },
           ].map((x, i) => (
@@ -75,7 +75,7 @@ export default function Methodologie() {
         <ul className="list-disc space-y-2 pl-5 text-sm leading-relaxed text-inksoft">
           <li>Une réserve élevée n'est pas forcément un défaut : une école peut épargner pour un grand projet (cour d'école, voyage). Les notes posent des <em>questions</em>, elles ne portent pas de jugement définitif.</li>
           <li>Une école à 0 $ peut simplement ne pas tenir de levées de fonds, sans que ce soit répréhensible.</li>
-          <li>Faute de données d'effectif, la taille est approximée par le budget du service de garde.</li>
+          <li>La capacité de financement n'est pas ajustée selon le nombre d'élèves : une grande école part avantagée sur cette dimension (c'est l'une des raisons pour lesquelles elle ne pèse que 20 % de la note).</li>
           <li>Projet citoyen indépendant, sans affiliation avec le CSSPO. Les pondérations ci-dessus sont un choix éditorial et peuvent être ajustées.</li>
         </ul>
       </section>

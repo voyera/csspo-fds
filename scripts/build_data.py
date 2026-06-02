@@ -18,8 +18,9 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW = json.loads((ROOT / "data" / "fds_raw.json").read_text())
 OUT = ROOT / "app" / "data" / "schools.json"
 
-# code -> (name, service-de-garde budget [size proxy], total operating budget)
+# code -> (name, _unused, total operating budget)
 # from the 2024-2025 "Budgets adoptés des établissements" summary.
+# (middle value is no longer used in scoring; kept to avoid renumbering.)
 SCHOOLS = {
     "001": ("Euclide-Lanthier", 515013, 984374),
     "002": ("Côte-du-Nord", 473436, 926813),
@@ -110,6 +111,17 @@ def year_metrics(rec):
         if v:
             revenues[label] = round(v, 2)
 
+    # proposed budget (budget column) — what the direction planned, often a
+    # single lump line. Reveals how simple/detailed the initial budget was.
+    exp_budget = {}
+    for code, label in EXPENSE_CATS.items():
+        v = accts.get(code, {}).get("budget", 0.0)
+        if v:
+            exp_budget[label] = round(v, 2)
+    rev_budget = {}
+    if budget_revenu:
+        rev_budget["Ventes & levées de fonds"] = round(budget_revenu, 2)
+
     available = raised + surplus_in
     spend_through = (spent / available) if available > 0 else 0.0
     hoard_ratio = (balance / spent) if spent > 0 else (99.0 if balance > 0 else 0.0)
@@ -125,17 +137,18 @@ def year_metrics(rec):
         "budgetRevenu": round(budget_revenu, 2),
         "expenses": expenses,
         "revenues": revenues,
+        "expBudget": exp_budget,
+        "revBudget": rev_budget,
         "granularity": granularity,
         "spendThrough": round(spend_through, 4),
         "hoardRatio": round(hoard_ratio, 3),
     }
 
 
-def fundraising_score(raised, size_proxy, cohort_max):
-    # half on absolute pull, half on intensity vs school size (fairness)
-    absolute = 100 * raised / cohort_max if cohort_max else 0
-    intensity = 100 * (raised / size_proxy) / 0.30 if size_proxy else 0  # 30% of SdG = full
-    return clamp(0.5 * absolute + 0.5 * intensity)
+def fundraising_score(raised, cohort_max):
+    # absolute amount raised, scaled so the top fundraiser = 100. No size
+    # adjustment: this measures raw fundraising pull, not a per-student rate.
+    return clamp(100 * raised / cohort_max) if cohort_max else 0.0
 
 
 def spend_score(m):
@@ -180,7 +193,7 @@ def main():
         if latest is None:
             continue
         schools.append({
-            "code": code, "name": name, "sizeProxy": sdg, "totalBudget": total,
+            "code": code, "name": name, "totalBudget": total,
             "latest": latest, "history": history,
         })
 
@@ -189,7 +202,7 @@ def main():
     # pass 2: scores
     for s in schools:
         m = s["latest"]
-        fs = fundraising_score(m["raised"], s["sizeProxy"], cohort_max)
+        fs = fundraising_score(m["raised"], cohort_max)
         ss = spend_score(m)
         rs = rigour_score(m)
         composite = (WEIGHTS["fundraising"] * fs + WEIGHTS["spend"] * ss

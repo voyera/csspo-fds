@@ -32,7 +32,6 @@
     {
       "code": "008",
       "name": "du Plateau",
-      "sizeProxy": 648366,
       "totalBudget": 1206591,
       "latest": {
         "raised": 94809.05,
@@ -54,6 +53,12 @@
         "revenues": {
           "Ventes & levées de fonds": 94693.05,
           "Revenus internes / intérêts": 116.0
+        },
+        "expBudget": {
+          "Services spécialisés": 113200.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 113200.0
         },
         "granularity": 6,
         "spendThrough": 0.9076,
@@ -84,6 +89,13 @@
             "Revenus internes / intérêts": 1174.0,
             "Gala / événement": 275.0
           },
+          "expBudget": {
+            "Aliments & boissons": 27425.0,
+            "Services spécialisés": 27425.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 54850.0
+          },
           "granularity": 6,
           "spendThrough": 0.3434,
           "hoardRatio": 1.912,
@@ -109,6 +121,13 @@
           "revenues": {
             "Ventes & levées de fonds": 34143.4,
             "Revenus internes / intérêts": 498.0
+          },
+          "expBudget": {
+            "Fournitures": 36300.0,
+            "Aliments & boissons": 30000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 66300.0
           },
           "granularity": 5,
           "spendThrough": 0.3909,
@@ -138,6 +157,13 @@
             "Ventes & levées de fonds": 41750.71,
             "Revenus internes / intérêts": 641.0
           },
+          "expBudget": {
+            "Fournitures": 34500.0,
+            "Aliments & boissons": 30000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 64500.0
+          },
           "granularity": 7,
           "spendThrough": 0.4778,
           "hoardRatio": 1.093,
@@ -166,6 +192,8 @@
             "Ventes & levées de fonds": 85320.09,
             "Revenus internes / intérêts": 1410.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 7,
           "spendThrough": 0.8138,
           "hoardRatio": 0.229,
@@ -192,6 +220,12 @@
           "revenues": {
             "Ventes & levées de fonds": 73379.46,
             "Revenus internes / intérêts": 361.0
+          },
+          "expBudget": {
+            "Services spécialisés": 101275.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 101275.0
           },
           "granularity": 6,
           "spendThrough": 0.9987,
@@ -220,6 +254,12 @@
             "Ventes & levées de fonds": 94693.05,
             "Revenus internes / intérêts": 116.0
           },
+          "expBudget": {
+            "Services spécialisés": 113200.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 113200.0
+          },
           "granularity": 6,
           "spendThrough": 0.9076,
           "hoardRatio": 0.102,
@@ -245,6 +285,12 @@
           "revenues": {
             "Ventes & levées de fonds": 31290.0
           },
+          "expBudget": {
+            "Services spécialisés": 39550.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 39550.0
+          },
           "granularity": 5,
           "spendThrough": 0.266,
           "hoardRatio": 2.754,
@@ -253,18 +299,17 @@
         }
       ],
       "scores": {
-        "fundraising": 60,
+        "fundraising": 71,
         "spend": 86,
         "rigour": 81
       },
-      "composite": 79.2,
+      "composite": 81.4,
       "grade": "B",
       "rank": 1
     },
     {
       "code": "029",
       "name": "des Tournesols",
-      "sizeProxy": 521506,
       "totalBudget": 998403,
       "latest": {
         "raised": 46397.96,
@@ -286,6 +331,12 @@
         "revenues": {
           "Ventes & levées de fonds": 45837.96,
           "Revenus internes / intérêts": 560.0
+        },
+        "expBudget": {
+          "Services spécialisés": 44000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 44000.0
         },
         "granularity": 6,
         "spendThrough": 0.8001,
@@ -313,6 +364,13 @@
             "Revenus internes / intérêts": 1310.0,
             "Gala / événement": -309.15
           },
+          "expBudget": {
+            "Aliments & boissons": 24800.0,
+            "Services spécialisés": 24800.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 49600.0
+          },
           "granularity": 3,
           "spendThrough": 0.0425,
           "hoardRatio": 22.524,
@@ -335,6 +393,12 @@
           "revenues": {
             "Ventes & levées de fonds": 12409.6,
             "Revenus internes / intérêts": 463.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 17100.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 17100.0
           },
           "granularity": 2,
           "spendThrough": 0.3538,
@@ -361,6 +425,12 @@
             "Ventes & levées de fonds": 25033.9,
             "Revenus internes / intérêts": 216.0
           },
+          "expBudget": {
+            "Aliments & boissons": 39100.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 39100.0
+          },
           "granularity": 4,
           "spendThrough": 0.4706,
           "hoardRatio": 1.125,
@@ -383,6 +453,14 @@
           "revenues": {
             "Ventes & levées de fonds": 10554.5,
             "Revenus internes / intérêts": 755.0
+          },
+          "expBudget": {
+            "Fournitures": 5761.0,
+            "Aliments & boissons": 5000.0,
+            "Sorties éducatives": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 15761.0
           },
           "granularity": 2,
           "spendThrough": 0.3759,
@@ -407,6 +485,12 @@
           "revenues": {
             "Ventes & levées de fonds": 21685.33,
             "Revenus internes / intérêts": 667.0
+          },
+          "expBudget": {
+            "Services spécialisés": 11431.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 11431.0
           },
           "granularity": 3,
           "spendThrough": 0.3592,
@@ -435,6 +519,12 @@
             "Ventes & levées de fonds": 45837.96,
             "Revenus internes / intérêts": 560.0
           },
+          "expBudget": {
+            "Services spécialisés": 44000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 44000.0
+          },
           "granularity": 6,
           "spendThrough": 0.8001,
           "hoardRatio": 0.25,
@@ -457,6 +547,12 @@
           "revenues": {
             "Ventes & levées de fonds": 10704.0
           },
+          "expBudget": {
+            "Aliments & boissons": 40000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 40000.0
+          },
           "granularity": 2,
           "spendThrough": 0.1007,
           "hoardRatio": 8.932,
@@ -465,230 +561,17 @@
         }
       ],
       "scores": {
-        "fundraising": 32,
+        "fundraising": 35,
         "spend": 79,
         "rigour": 86
       },
-      "composite": 72.1,
+      "composite": 72.6,
       "grade": "B",
       "rank": 2
     },
     {
-      "code": "016",
-      "name": "Saint-Jean-Bosco",
-      "sizeProxy": 372725,
-      "totalBudget": 805055,
-      "latest": {
-        "raised": 50762.56,
-        "fundraised": 50585.56,
-        "internalRev": 177.0,
-        "spent": 44260.54,
-        "balance": 10032.02,
-        "surplusIn": 3530.0,
-        "activityBudget": 55230.0,
-        "budgetRevenu": 51700.0,
-        "expenses": {
-          "Fournitures": 1045.23,
-          "Aliments & boissons": 22224.45,
-          "Services spécialisés": 20990.86
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 50585.56,
-          "Revenus internes / intérêts": 177.0
-        },
-        "granularity": 3,
-        "spendThrough": 0.8152,
-        "hoardRatio": 0.227,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 37900.18,
-          "fundraised": 37165.18,
-          "internalRev": 235.0,
-          "spent": 35041.85,
-          "balance": 13854.33,
-          "surplusIn": 10996.0,
-          "activityBudget": 23864.0,
-          "budgetRevenu": 12868.0,
-          "expenses": {
-            "Fournitures": 6890.57,
-            "Livres / revues": 6573.42,
-            "Aliments & boissons": 16701.06,
-            "Services spécialisés": 4876.8
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 37165.18,
-            "Revenus internes / intérêts": 235.0,
-            "Gala / événement": 500.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.7167,
-          "hoardRatio": 0.395,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": 41949.73,
-          "fundraised": 41762.73,
-          "internalRev": 187.0,
-          "spent": 19386.95,
-          "balance": 36416.78,
-          "surplusIn": 13854.0,
-          "activityBudget": 22233.0,
-          "budgetRevenu": 8379.0,
-          "expenses": {
-            "Fournitures": 277.9,
-            "Livres / revues": 4889.61,
-            "Aliments & boissons": 11576.21,
-            "Services spécialisés": 2643.23
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 41762.73,
-            "Revenus internes / intérêts": 187.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.3474,
-          "hoardRatio": 1.878,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 31158.05,
-          "fundraised": 30774.05,
-          "internalRev": 384.0,
-          "spent": 32630.49,
-          "balance": 34944.56,
-          "surplusIn": 36417.0,
-          "activityBudget": 44717.0,
-          "budgetRevenu": 8300.0,
-          "expenses": {
-            "Fournitures": 10502.27,
-            "Livres / revues": 2525.59,
-            "Aliments & boissons": 17507.48,
-            "Services spécialisés": 2095.15
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 30774.05,
-            "Revenus internes / intérêts": 384.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.4829,
-          "hoardRatio": 1.071,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 20159.08,
-          "fundraised": 19248.08,
-          "internalRev": 911.0,
-          "spent": 37149.0,
-          "balance": 17955.08,
-          "surplusIn": 34945.0,
-          "activityBudget": 43645.0,
-          "budgetRevenu": 8700.0,
-          "expenses": {
-            "Fournitures": 10718.87,
-            "Livres / revues": 549.35,
-            "Aliments & boissons": 15432.17,
-            "Services spécialisés": 3491.45,
-            "Sorties éducatives": 6409.95,
-            "Salaires & charges": 547.21
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 19248.08,
-            "Revenus internes / intérêts": 911.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.6742,
-          "hoardRatio": 0.483,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 37246.73,
-          "fundraised": 36954.73,
-          "internalRev": 292.0,
-          "spent": 51671.75,
-          "balance": 3529.98,
-          "surplusIn": 17955.0,
-          "activityBudget": 50205.0,
-          "budgetRevenu": 32250.0,
-          "expenses": {
-            "Fournitures": 19949.85,
-            "Aliments & boissons": 18438.86,
-            "Services spécialisés": 8579.93,
-            "Transport": 4703.02,
-            "Salaires & charges": 0.09
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 36954.73,
-            "Revenus internes / intérêts": 292.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.9361,
-          "hoardRatio": 0.068,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 50762.56,
-          "fundraised": 50585.56,
-          "internalRev": 177.0,
-          "spent": 44260.54,
-          "balance": 10032.02,
-          "surplusIn": 3530.0,
-          "activityBudget": 55230.0,
-          "budgetRevenu": 51700.0,
-          "expenses": {
-            "Fournitures": 1045.23,
-            "Aliments & boissons": 22224.45,
-            "Services spécialisés": 20990.86
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 50585.56,
-            "Revenus internes / intérêts": 177.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.8152,
-          "hoardRatio": 0.227,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 5718.0,
-          "fundraised": 5718.0,
-          "internalRev": 0.0,
-          "spent": 0.0,
-          "balance": 5718.0,
-          "surplusIn": 0.0,
-          "activityBudget": 60853.0,
-          "budgetRevenu": 60853.0,
-          "expenses": {},
-          "revenues": {
-            "Ventes & levées de fonds": 5718.0
-          },
-          "granularity": 0,
-          "spendThrough": 0.0,
-          "hoardRatio": 99.0,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 42,
-        "spend": 80,
-        "rigour": 66
-      },
-      "composite": 67.5,
-      "grade": "C",
-      "rank": 3
-    },
-    {
       "code": "028",
       "name": "des Deux-Ruisseaux",
-      "sizeProxy": 767924,
       "totalBudget": 1348392,
       "latest": {
         "raised": 43726.14,
@@ -710,6 +593,12 @@
         "revenues": {
           "Ventes & levées de fonds": 43044.14,
           "Revenus internes / intérêts": 682.0
+        },
+        "expBudget": {
+          "Services spécialisés": 60400.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 60400.0
         },
         "granularity": 6,
         "spendThrough": 0.8016,
@@ -739,6 +628,13 @@
             "Revenus internes / intérêts": 1379.0,
             "Gala / événement": 25.0
           },
+          "expBudget": {
+            "Aliments & boissons": 49500.0,
+            "Services spécialisés": 49500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 99000.0
+          },
           "granularity": 5,
           "spendThrough": 0.3351,
           "hoardRatio": 1.984,
@@ -765,6 +661,13 @@
           "revenues": {
             "Ventes & levées de fonds": 30196.56,
             "Revenus internes / intérêts": 542.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 49500.0,
+            "Services spécialisés": 49600.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 99100.0
           },
           "granularity": 6,
           "spendThrough": 0.3824,
@@ -794,6 +697,13 @@
             "Ventes & levées de fonds": 51112.41,
             "Revenus internes / intérêts": 704.0
           },
+          "expBudget": {
+            "Aliments & boissons": 44875.0,
+            "Services spécialisés": 44875.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 89750.0
+          },
           "granularity": 7,
           "spendThrough": 0.4662,
           "hoardRatio": 1.145,
@@ -821,6 +731,16 @@
           "revenues": {
             "Ventes & levées de fonds": 67205.19,
             "Revenus internes / intérêts": 2300.0
+          },
+          "expBudget": {
+            "Fournitures": 9000.0,
+            "Livres / revues": 6500.0,
+            "Matériel didactique": 14000.0,
+            "Aliments & boissons": 32440.0,
+            "Services spécialisés": 42850.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 104790.0
           },
           "granularity": 7,
           "spendThrough": 0.474,
@@ -850,6 +770,12 @@
             "Ventes & levées de fonds": 52374.06,
             "Revenus internes / intérêts": 1442.0
           },
+          "expBudget": {
+            "Services spécialisés": 125300.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 125300.0
+          },
           "granularity": 7,
           "spendThrough": 0.708,
           "hoardRatio": 0.412,
@@ -877,6 +803,12 @@
             "Ventes & levées de fonds": 43044.14,
             "Revenus internes / intérêts": 682.0
           },
+          "expBudget": {
+            "Services spécialisés": 60400.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 60400.0
+          },
           "granularity": 6,
           "spendThrough": 0.8016,
           "hoardRatio": 0.247,
@@ -899,6 +831,12 @@
             "Ventes & levées de fonds": 398.44,
             "Revenus internes / intérêts": 14496.0
           },
+          "expBudget": {
+            "Aliments & boissons": 65550.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 65550.0
+          },
           "granularity": 1,
           "spendThrough": 0.3072,
           "hoardRatio": 2.255,
@@ -907,18 +845,277 @@
         }
       ],
       "scores": {
-        "fundraising": 26,
+        "fundraising": 33,
         "spend": 79,
         "rigour": 76
       },
-      "composite": 67.4,
+      "composite": 68.8,
+      "grade": "C",
+      "rank": 3
+    },
+    {
+      "code": "016",
+      "name": "Saint-Jean-Bosco",
+      "totalBudget": 805055,
+      "latest": {
+        "raised": 50762.56,
+        "fundraised": 50585.56,
+        "internalRev": 177.0,
+        "spent": 44260.54,
+        "balance": 10032.02,
+        "surplusIn": 3530.0,
+        "activityBudget": 55230.0,
+        "budgetRevenu": 51700.0,
+        "expenses": {
+          "Fournitures": 1045.23,
+          "Aliments & boissons": 22224.45,
+          "Services spécialisés": 20990.86
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 50585.56,
+          "Revenus internes / intérêts": 177.0
+        },
+        "expBudget": {
+          "Services spécialisés": 51700.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 51700.0
+        },
+        "granularity": 3,
+        "spendThrough": 0.8152,
+        "hoardRatio": 0.227,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 37900.18,
+          "fundraised": 37165.18,
+          "internalRev": 235.0,
+          "spent": 35041.85,
+          "balance": 13854.33,
+          "surplusIn": 10996.0,
+          "activityBudget": 23864.0,
+          "budgetRevenu": 12868.0,
+          "expenses": {
+            "Fournitures": 6890.57,
+            "Livres / revues": 6573.42,
+            "Aliments & boissons": 16701.06,
+            "Services spécialisés": 4876.8
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 37165.18,
+            "Revenus internes / intérêts": 235.0,
+            "Gala / événement": 500.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 6434.0,
+            "Services spécialisés": 6434.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 12868.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.7167,
+          "hoardRatio": 0.395,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 41949.73,
+          "fundraised": 41762.73,
+          "internalRev": 187.0,
+          "spent": 19386.95,
+          "balance": 36416.78,
+          "surplusIn": 13854.0,
+          "activityBudget": 22233.0,
+          "budgetRevenu": 8379.0,
+          "expenses": {
+            "Fournitures": 277.9,
+            "Livres / revues": 4889.61,
+            "Aliments & boissons": 11576.21,
+            "Services spécialisés": 2643.23
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 41762.73,
+            "Revenus internes / intérêts": 187.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 8379.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8379.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.3474,
+          "hoardRatio": 1.878,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 31158.05,
+          "fundraised": 30774.05,
+          "internalRev": 384.0,
+          "spent": 32630.49,
+          "balance": 34944.56,
+          "surplusIn": 36417.0,
+          "activityBudget": 44717.0,
+          "budgetRevenu": 8300.0,
+          "expenses": {
+            "Fournitures": 10502.27,
+            "Livres / revues": 2525.59,
+            "Aliments & boissons": 17507.48,
+            "Services spécialisés": 2095.15
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 30774.05,
+            "Revenus internes / intérêts": 384.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 8300.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8300.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.4829,
+          "hoardRatio": 1.071,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 20159.08,
+          "fundraised": 19248.08,
+          "internalRev": 911.0,
+          "spent": 37149.0,
+          "balance": 17955.08,
+          "surplusIn": 34945.0,
+          "activityBudget": 43645.0,
+          "budgetRevenu": 8700.0,
+          "expenses": {
+            "Fournitures": 10718.87,
+            "Livres / revues": 549.35,
+            "Aliments & boissons": 15432.17,
+            "Services spécialisés": 3491.45,
+            "Sorties éducatives": 6409.95,
+            "Salaires & charges": 547.21
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 19248.08,
+            "Revenus internes / intérêts": 911.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 8700.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8700.0
+          },
+          "granularity": 6,
+          "spendThrough": 0.6742,
+          "hoardRatio": 0.483,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 37246.73,
+          "fundraised": 36954.73,
+          "internalRev": 292.0,
+          "spent": 51671.75,
+          "balance": 3529.98,
+          "surplusIn": 17955.0,
+          "activityBudget": 50205.0,
+          "budgetRevenu": 32250.0,
+          "expenses": {
+            "Fournitures": 19949.85,
+            "Aliments & boissons": 18438.86,
+            "Services spécialisés": 8579.93,
+            "Transport": 4703.02,
+            "Salaires & charges": 0.09
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 36954.73,
+            "Revenus internes / intérêts": 292.0
+          },
+          "expBudget": {
+            "Services spécialisés": 32250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 32250.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.9361,
+          "hoardRatio": 0.068,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 50762.56,
+          "fundraised": 50585.56,
+          "internalRev": 177.0,
+          "spent": 44260.54,
+          "balance": 10032.02,
+          "surplusIn": 3530.0,
+          "activityBudget": 55230.0,
+          "budgetRevenu": 51700.0,
+          "expenses": {
+            "Fournitures": 1045.23,
+            "Aliments & boissons": 22224.45,
+            "Services spécialisés": 20990.86
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 50585.56,
+            "Revenus internes / intérêts": 177.0
+          },
+          "expBudget": {
+            "Services spécialisés": 51700.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 51700.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.8152,
+          "hoardRatio": 0.227,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 5718.0,
+          "fundraised": 5718.0,
+          "internalRev": 0.0,
+          "spent": 0.0,
+          "balance": 5718.0,
+          "surplusIn": 0.0,
+          "activityBudget": 60853.0,
+          "budgetRevenu": 60853.0,
+          "expenses": {},
+          "revenues": {
+            "Ventes & levées de fonds": 5718.0
+          },
+          "expBudget": {
+            "Services spécialisés": 60853.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 60853.0
+          },
+          "granularity": 0,
+          "spendThrough": 0.0,
+          "hoardRatio": 99.0,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 38,
+        "spend": 80,
+        "rigour": 66
+      },
+      "composite": 66.7,
       "grade": "C",
       "rank": 4
     },
     {
       "code": "011",
       "name": "du Vieux-Verger",
-      "sizeProxy": 435964,
       "totalBudget": 797959,
       "latest": {
         "raised": 43328.7,
@@ -939,6 +1136,12 @@
         "revenues": {
           "Ventes & levées de fonds": 42029.7,
           "Revenus internes / intérêts": 1299.0
+        },
+        "expBudget": {
+          "Services spécialisés": 8447.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 8447.0
         },
         "granularity": 5,
         "spendThrough": 0.8959,
@@ -967,6 +1170,13 @@
             "Revenus internes / intérêts": 927.0,
             "Gala / événement": 125.0
           },
+          "expBudget": {
+            "Aliments & boissons": 12800.0,
+            "Services spécialisés": 12800.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 25600.0
+          },
           "granularity": 4,
           "spendThrough": 0.2939,
           "hoardRatio": 2.403,
@@ -991,6 +1201,13 @@
           "revenues": {
             "Ventes & levées de fonds": 33770.6,
             "Revenus internes / intérêts": 348.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 16000.0,
+            "Services spécialisés": 15960.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31960.0
           },
           "granularity": 4,
           "spendThrough": 0.3772,
@@ -1019,6 +1236,13 @@
             "Ventes & levées de fonds": 27341.02,
             "Revenus internes / intérêts": 522.0
           },
+          "expBudget": {
+            "Aliments & boissons": 16000.0,
+            "Services spécialisés": 16360.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 32360.0
+          },
           "granularity": 6,
           "spendThrough": 0.375,
           "hoardRatio": 1.667,
@@ -1042,6 +1266,14 @@
           "revenues": {
             "Ventes & levées de fonds": 43955.01,
             "Revenus internes / intérêts": 2014.0
+          },
+          "expBudget": {
+            "Fournitures": 3000.0,
+            "Aliments & boissons": 9000.0,
+            "Services spécialisés": 18800.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 30800.0
           },
           "granularity": 3,
           "spendThrough": 0.2664,
@@ -1069,6 +1301,12 @@
             "Ventes & levées de fonds": 36797.0,
             "Revenus internes / intérêts": 2100.0
           },
+          "expBudget": {
+            "Services spécialisés": 12600.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 12600.0
+          },
           "granularity": 5,
           "spendThrough": 0.2059,
           "hoardRatio": 3.858,
@@ -1095,6 +1333,12 @@
             "Ventes & levées de fonds": 42029.7,
             "Revenus internes / intérêts": 1299.0
           },
+          "expBudget": {
+            "Services spécialisés": 8447.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8447.0
+          },
           "granularity": 5,
           "spendThrough": 0.8959,
           "hoardRatio": 0.116,
@@ -1116,6 +1360,12 @@
           "revenues": {
             "Ventes & levées de fonds": 20243.0
           },
+          "expBudget": {
+            "Services spécialisés": 15000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 15000.0
+          },
           "granularity": 1,
           "spendThrough": 0.0829,
           "hoardRatio": 11.056,
@@ -1124,7 +1374,7 @@
         }
       ],
       "scores": {
-        "fundraising": 33,
+        "fundraising": 32,
         "spend": 85,
         "rigour": 60
       },
@@ -1133,217 +1383,8 @@
       "rank": 5
     },
     {
-      "code": "005",
-      "name": "Jean-de-Brébeuf",
-      "sizeProxy": 353281,
-      "totalBudget": 768017,
-      "latest": {
-        "raised": 27123.35,
-        "fundraised": 26744.35,
-        "internalRev": 379.0,
-        "spent": 31656.89,
-        "balance": 12200.46,
-        "surplusIn": 16734.0,
-        "activityBudget": 43834.0,
-        "budgetRevenu": 27100.0,
-        "expenses": {
-          "Fournitures": 193.12,
-          "Aliments & boissons": 13412.59,
-          "Services spécialisés": 15570.32,
-          "Transport": 2480.86
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 26744.35,
-          "Revenus internes / intérêts": 379.0
-        },
-        "granularity": 4,
-        "spendThrough": 0.7218,
-        "hoardRatio": 0.385,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 18744.03,
-          "fundraised": 18292.03,
-          "internalRev": 452.0,
-          "spent": 8460.22,
-          "balance": 29001.81,
-          "surplusIn": 18718.0,
-          "activityBudget": 34718.0,
-          "budgetRevenu": 16000.0,
-          "expenses": {
-            "Fournitures": 3939.78,
-            "Aliments & boissons": 2533.87,
-            "Services spécialisés": 1707.09,
-            "Sorties éducatives": 279.48
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 18292.03,
-            "Revenus internes / intérêts": 452.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.2258,
-          "hoardRatio": 3.428,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": 15032.11,
-          "fundraised": 14835.11,
-          "internalRev": 197.0,
-          "spent": 20087.1,
-          "balance": 23947.01,
-          "surplusIn": 29002.0,
-          "activityBudget": 35002.0,
-          "budgetRevenu": 6000.0,
-          "expenses": {
-            "Fournitures": 5968.68,
-            "Aliments & boissons": 9687.97,
-            "Services spécialisés": 4430.45
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 14835.11,
-            "Revenus internes / intérêts": 197.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.4562,
-          "hoardRatio": 1.192,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 27125.07,
-          "fundraised": 26855.07,
-          "internalRev": 270.0,
-          "spent": 19430.61,
-          "balance": 28891.46,
-          "surplusIn": 23947.0,
-          "activityBudget": 28697.0,
-          "budgetRevenu": 7500.0,
-          "expenses": {
-            "Fournitures": 6652.77,
-            "Aliments & boissons": 7200.07,
-            "Services spécialisés": 1302.3,
-            "Transport": 4275.47
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 26855.07,
-            "Revenus internes / intérêts": 270.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.3805,
-          "hoardRatio": 1.487,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 29449.89,
-          "fundraised": 28292.89,
-          "internalRev": 1157.0,
-          "spent": 20075.64,
-          "balance": 38265.25,
-          "surplusIn": 28891.0,
-          "activityBudget": 44391.0,
-          "budgetRevenu": 15500.0,
-          "expenses": {
-            "Aliments & boissons": 18739.55,
-            "Transport": 1336.09
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 28292.89,
-            "Revenus internes / intérêts": 1157.0
-          },
-          "granularity": 2,
-          "spendThrough": 0.3441,
-          "hoardRatio": 1.906,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 23126.45,
-          "fundraised": 22379.45,
-          "internalRev": 747.0,
-          "spent": 44657.78,
-          "balance": 16733.67,
-          "surplusIn": 38265.0,
-          "activityBudget": 64515.0,
-          "budgetRevenu": 26250.0,
-          "expenses": {
-            "Fournitures": 8687.55,
-            "Aliments & boissons": 13325.35,
-            "Services spécialisés": 20932.97,
-            "Transport": 1524.59,
-            "Salaires & charges": 187.32
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 22379.45,
-            "Revenus internes / intérêts": 747.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.7274,
-          "hoardRatio": 0.375,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 27123.35,
-          "fundraised": 26744.35,
-          "internalRev": 379.0,
-          "spent": 31656.89,
-          "balance": 12200.46,
-          "surplusIn": 16734.0,
-          "activityBudget": 43834.0,
-          "budgetRevenu": 27100.0,
-          "expenses": {
-            "Fournitures": 193.12,
-            "Aliments & boissons": 13412.59,
-            "Services spécialisés": 15570.32,
-            "Transport": 2480.86
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 26744.35,
-            "Revenus internes / intérêts": 379.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.7218,
-          "hoardRatio": 0.385,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 2100.0,
-          "fundraised": 2100.0,
-          "internalRev": 0.0,
-          "spent": 0.0,
-          "balance": 2100.0,
-          "surplusIn": 0.0,
-          "activityBudget": 30405.0,
-          "budgetRevenu": 30405.0,
-          "expenses": {},
-          "revenues": {
-            "Ventes & levées de fonds": 2100.0
-          },
-          "granularity": 0,
-          "spendThrough": 0.0,
-          "hoardRatio": 99.0,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 23,
-        "spend": 74,
-        "rigour": 71
-      },
-      "composite": 62.6,
-      "grade": "C",
-      "rank": 6
-    },
-    {
       "code": "018",
       "name": "du Dôme",
-      "sizeProxy": 592346,
       "totalBudget": 992059,
       "latest": {
         "raised": 65888.83,
@@ -1365,6 +1406,12 @@
         "revenues": {
           "Ventes & levées de fonds": 64088.83,
           "Revenus internes / intérêts": 1800.0
+        },
+        "expBudget": {
+          "Services spécialisés": 24000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 24000.0
         },
         "granularity": 6,
         "spendThrough": 0.6011,
@@ -1393,6 +1440,13 @@
             "Revenus internes / intérêts": 16.0,
             "Gala / événement": 125.0
           },
+          "expBudget": {
+            "Aliments & boissons": 17500.0,
+            "Services spécialisés": 17500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 35000.0
+          },
           "granularity": 4,
           "spendThrough": 0.9005,
           "hoardRatio": 0.111,
@@ -1417,6 +1471,13 @@
           "revenues": {
             "Ventes & levées de fonds": 26661.13,
             "Revenus internes / intérêts": 55.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 10000.0,
+            "Services spécialisés": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20000.0
           },
           "granularity": 4,
           "spendThrough": 0.538,
@@ -1443,6 +1504,13 @@
             "Ventes & levées de fonds": 53838.11,
             "Revenus internes / intérêts": 241.0
           },
+          "expBudget": {
+            "Aliments & boissons": 23795.0,
+            "Services spécialisés": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 33795.0
+          },
           "granularity": 4,
           "spendThrough": 0.5305,
           "hoardRatio": 0.885,
@@ -1468,6 +1536,13 @@
             "Ventes & levées de fonds": 68305.94,
             "Revenus internes / intérêts": 1481.0
           },
+          "expBudget": {
+            "Aliments & boissons": 20000.0,
+            "Services spécialisés": 20000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 40000.0
+          },
           "granularity": 4,
           "spendThrough": 0.4634,
           "hoardRatio": 1.158,
@@ -1492,6 +1567,12 @@
           "revenues": {
             "Ventes & levées de fonds": 47380.37,
             "Revenus internes / intérêts": 1817.0
+          },
+          "expBudget": {
+            "Services spécialisés": 74000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 74000.0
           },
           "granularity": 4,
           "spendThrough": 0.2343,
@@ -1520,6 +1601,12 @@
             "Ventes & levées de fonds": 64088.83,
             "Revenus internes / intérêts": 1800.0
           },
+          "expBudget": {
+            "Services spécialisés": 24000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24000.0
+          },
           "granularity": 6,
           "spendThrough": 0.6011,
           "hoardRatio": 0.664,
@@ -1541,6 +1628,8 @@
           "revenues": {
             "Ventes & levées de fonds": 15423.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 1,
           "spendThrough": 0.0272,
           "hoardRatio": 35.751,
@@ -1549,18 +1638,275 @@
         }
       ],
       "scores": {
-        "fundraising": 43,
+        "fundraising": 49,
         "spend": 64,
         "rigour": 72
       },
-      "composite": 62.5,
+      "composite": 63.7,
+      "grade": "C",
+      "rank": 6
+    },
+    {
+      "code": "005",
+      "name": "Jean-de-Brébeuf",
+      "totalBudget": 768017,
+      "latest": {
+        "raised": 27123.35,
+        "fundraised": 26744.35,
+        "internalRev": 379.0,
+        "spent": 31656.89,
+        "balance": 12200.46,
+        "surplusIn": 16734.0,
+        "activityBudget": 43834.0,
+        "budgetRevenu": 27100.0,
+        "expenses": {
+          "Fournitures": 193.12,
+          "Aliments & boissons": 13412.59,
+          "Services spécialisés": 15570.32,
+          "Transport": 2480.86
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 26744.35,
+          "Revenus internes / intérêts": 379.0
+        },
+        "expBudget": {
+          "Services spécialisés": 27100.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 27100.0
+        },
+        "granularity": 4,
+        "spendThrough": 0.7218,
+        "hoardRatio": 0.385,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 18744.03,
+          "fundraised": 18292.03,
+          "internalRev": 452.0,
+          "spent": 8460.22,
+          "balance": 29001.81,
+          "surplusIn": 18718.0,
+          "activityBudget": 34718.0,
+          "budgetRevenu": 16000.0,
+          "expenses": {
+            "Fournitures": 3939.78,
+            "Aliments & boissons": 2533.87,
+            "Services spécialisés": 1707.09,
+            "Sorties éducatives": 279.48
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 18292.03,
+            "Revenus internes / intérêts": 452.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 10000.0,
+            "Sorties éducatives": 6000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 16000.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.2258,
+          "hoardRatio": 3.428,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 15032.11,
+          "fundraised": 14835.11,
+          "internalRev": 197.0,
+          "spent": 20087.1,
+          "balance": 23947.01,
+          "surplusIn": 29002.0,
+          "activityBudget": 35002.0,
+          "budgetRevenu": 6000.0,
+          "expenses": {
+            "Fournitures": 5968.68,
+            "Aliments & boissons": 9687.97,
+            "Services spécialisés": 4430.45
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 14835.11,
+            "Revenus internes / intérêts": 197.0
+          },
+          "expBudget": {
+            "Fournitures": 3000.0,
+            "Aliments & boissons": 3000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 6000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.4562,
+          "hoardRatio": 1.192,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 27125.07,
+          "fundraised": 26855.07,
+          "internalRev": 270.0,
+          "spent": 19430.61,
+          "balance": 28891.46,
+          "surplusIn": 23947.0,
+          "activityBudget": 28697.0,
+          "budgetRevenu": 7500.0,
+          "expenses": {
+            "Fournitures": 6652.77,
+            "Aliments & boissons": 7200.07,
+            "Services spécialisés": 1302.3,
+            "Transport": 4275.47
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 26855.07,
+            "Revenus internes / intérêts": 270.0
+          },
+          "expBudget": {
+            "Fournitures": 4750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 7500.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.3805,
+          "hoardRatio": 1.487,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 29449.89,
+          "fundraised": 28292.89,
+          "internalRev": 1157.0,
+          "spent": 20075.64,
+          "balance": 38265.25,
+          "surplusIn": 28891.0,
+          "activityBudget": 44391.0,
+          "budgetRevenu": 15500.0,
+          "expenses": {
+            "Aliments & boissons": 18739.55,
+            "Transport": 1336.09
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 28292.89,
+            "Revenus internes / intérêts": 1157.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 10000.0,
+            "Services spécialisés": 5500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 15500.0
+          },
+          "granularity": 2,
+          "spendThrough": 0.3441,
+          "hoardRatio": 1.906,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 23126.45,
+          "fundraised": 22379.45,
+          "internalRev": 747.0,
+          "spent": 44657.78,
+          "balance": 16733.67,
+          "surplusIn": 38265.0,
+          "activityBudget": 64515.0,
+          "budgetRevenu": 26250.0,
+          "expenses": {
+            "Fournitures": 8687.55,
+            "Aliments & boissons": 13325.35,
+            "Services spécialisés": 20932.97,
+            "Transport": 1524.59,
+            "Salaires & charges": 187.32
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 22379.45,
+            "Revenus internes / intérêts": 747.0
+          },
+          "expBudget": {
+            "Services spécialisés": 26250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 26250.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.7274,
+          "hoardRatio": 0.375,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 27123.35,
+          "fundraised": 26744.35,
+          "internalRev": 379.0,
+          "spent": 31656.89,
+          "balance": 12200.46,
+          "surplusIn": 16734.0,
+          "activityBudget": 43834.0,
+          "budgetRevenu": 27100.0,
+          "expenses": {
+            "Fournitures": 193.12,
+            "Aliments & boissons": 13412.59,
+            "Services spécialisés": 15570.32,
+            "Transport": 2480.86
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 26744.35,
+            "Revenus internes / intérêts": 379.0
+          },
+          "expBudget": {
+            "Services spécialisés": 27100.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 27100.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.7218,
+          "hoardRatio": 0.385,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 2100.0,
+          "fundraised": 2100.0,
+          "internalRev": 0.0,
+          "spent": 0.0,
+          "balance": 2100.0,
+          "surplusIn": 0.0,
+          "activityBudget": 30405.0,
+          "budgetRevenu": 30405.0,
+          "expenses": {},
+          "revenues": {
+            "Ventes & levées de fonds": 2100.0
+          },
+          "expBudget": {
+            "Services spécialisés": 30405.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 30405.0
+          },
+          "granularity": 0,
+          "spendThrough": 0.0,
+          "hoardRatio": 99.0,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 20,
+        "spend": 74,
+        "rigour": 71
+      },
+      "composite": 62.1,
       "grade": "C",
       "rank": 7
     },
     {
       "code": "002",
       "name": "Côte-du-Nord",
-      "sizeProxy": 473436,
       "totalBudget": 926813,
       "latest": {
         "raised": 86188.69,
@@ -1580,6 +1926,12 @@
         "revenues": {
           "Ventes & levées de fonds": 84772.69,
           "Revenus internes / intérêts": 1416.0
+        },
+        "expBudget": {
+          "Services spécialisés": 52352.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 52352.0
         },
         "granularity": 4,
         "spendThrough": 0.5556,
@@ -1608,6 +1960,13 @@
             "Revenus internes / intérêts": 506.0,
             "Gala / événement": 400.0
           },
+          "expBudget": {
+            "Aliments & boissons": 7550.0,
+            "Services spécialisés": 7550.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 15100.0
+          },
           "granularity": 4,
           "spendThrough": 0.5208,
           "hoardRatio": 0.92,
@@ -1632,6 +1991,12 @@
             "Ventes & levées de fonds": 5060.58,
             "Revenus internes / intérêts": 188.0
           },
+          "expBudget": {
+            "Aliments & boissons": 11700.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 11700.0
+          },
           "granularity": 3,
           "spendThrough": 0.1478,
           "hoardRatio": 5.767,
@@ -1654,6 +2019,12 @@
           "revenues": {
             "Ventes & levées de fonds": 13949.88,
             "Revenus internes / intérêts": 305.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 10400.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10400.0
           },
           "granularity": 2,
           "spendThrough": 0.2246,
@@ -1680,6 +2051,13 @@
             "Ventes & levées de fonds": 51822.81,
             "Revenus internes / intérêts": 1118.0
           },
+          "expBudget": {
+            "Aliments & boissons": 10200.0,
+            "Services spécialisés": 3000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 13200.0
+          },
           "granularity": 4,
           "spendThrough": 0.5957,
           "hoardRatio": 0.679,
@@ -1703,6 +2081,12 @@
           "revenues": {
             "Ventes & levées de fonds": 50551.35,
             "Revenus internes / intérêts": 1116.0
+          },
+          "expBudget": {
+            "Services spécialisés": 35833.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 35833.0
           },
           "granularity": 3,
           "spendThrough": 0.4363,
@@ -1729,6 +2113,12 @@
             "Ventes & levées de fonds": 84772.69,
             "Revenus internes / intérêts": 1416.0
           },
+          "expBudget": {
+            "Services spécialisés": 52352.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 52352.0
+          },
           "granularity": 4,
           "spendThrough": 0.5556,
           "hoardRatio": 0.8,
@@ -1750,6 +2140,12 @@
           "revenues": {
             "Ventes & levées de fonds": 15215.0
           },
+          "expBudget": {
+            "Services spécialisés": 45000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 45000.0
+          },
           "granularity": 1,
           "spendThrough": 0.0137,
           "hoardRatio": 72.096,
@@ -1758,18 +2154,17 @@
         }
       ],
       "scores": {
-        "fundraising": 63,
+        "fundraising": 64,
         "spend": 60,
         "rigour": 62
       },
-      "composite": 61.0,
+      "composite": 61.4,
       "grade": "C",
       "rank": 8
     },
     {
       "code": "001",
       "name": "Euclide-Lanthier",
-      "sizeProxy": 515013,
       "totalBudget": 984374,
       "latest": {
         "raised": 72106.83,
@@ -1789,6 +2184,12 @@
         "revenues": {
           "Ventes & levées de fonds": 71453.83,
           "Revenus internes / intérêts": 653.0
+        },
+        "expBudget": {
+          "Services spécialisés": 31300.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 31300.0
         },
         "granularity": 4,
         "spendThrough": 0.6072,
@@ -1818,6 +2219,13 @@
             "Revenus internes / intérêts": 757.0,
             "Gala / événement": 400.0
           },
+          "expBudget": {
+            "Aliments & boissons": 30000.0,
+            "Services spécialisés": 30000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 60000.0
+          },
           "granularity": 5,
           "spendThrough": 0.6385,
           "hoardRatio": 0.566,
@@ -1844,6 +2252,13 @@
             "Ventes & levées de fonds": 56129.03,
             "Revenus internes / intérêts": 428.0
           },
+          "expBudget": {
+            "Aliments & boissons": 30000.0,
+            "Services spécialisés": 17000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 47000.0
+          },
           "granularity": 5,
           "spendThrough": 0.3586,
           "hoardRatio": 1.788,
@@ -1867,6 +2282,13 @@
           "revenues": {
             "Ventes & levées de fonds": 38853.49,
             "Revenus internes / intérêts": 591.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 14250.0,
+            "Services spécialisés": 14250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 28500.0
           },
           "granularity": 3,
           "spendThrough": 0.6386,
@@ -1893,6 +2315,14 @@
             "Ventes & levées de fonds": 35958.98,
             "Revenus internes / intérêts": 598.0
           },
+          "expBudget": {
+            "Fournitures": 5000.0,
+            "Aliments & boissons": 23500.0,
+            "Services spécialisés": 7500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 36000.0
+          },
           "granularity": 4,
           "spendThrough": 0.0,
           "hoardRatio": 0.0,
@@ -1916,6 +2346,12 @@
           "revenues": {
             "Ventes & levées de fonds": 73051.56,
             "Revenus internes / intérêts": 143.0
+          },
+          "expBudget": {
+            "Services spécialisés": 31300.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31300.0
           },
           "granularity": 3,
           "spendThrough": 0.7746,
@@ -1942,6 +2378,12 @@
             "Ventes & levées de fonds": 71453.83,
             "Revenus internes / intérêts": 653.0
           },
+          "expBudget": {
+            "Services spécialisés": 31300.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31300.0
+          },
           "granularity": 4,
           "spendThrough": 0.6072,
           "hoardRatio": 0.647,
@@ -1961,6 +2403,12 @@
           "revenues": {
             "Ventes & levées de fonds": 13140.0
           },
+          "expBudget": {
+            "Services spécialisés": 31000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31000.0
+          },
           "granularity": 0,
           "spendThrough": 0.0,
           "hoardRatio": 99.0,
@@ -1969,242 +2417,17 @@
         }
       ],
       "scores": {
-        "fundraising": 50,
+        "fundraising": 54,
         "spend": 65,
         "rigour": 61
       },
-      "composite": 60.4,
+      "composite": 61.1,
       "grade": "C",
       "rank": 9
     },
     {
-      "code": "012",
-      "name": "du Grand-Boisé",
-      "sizeProxy": 746089,
-      "totalBudget": 1302609,
-      "latest": {
-        "raised": 80336.1,
-        "fundraised": 76917.1,
-        "internalRev": 3419.0,
-        "spent": 112220.44,
-        "balance": 110147.66,
-        "surplusIn": 142032.0,
-        "activityBudget": 193532.0,
-        "budgetRevenu": 51500.0,
-        "expenses": {
-          "Fournitures": 9463.46,
-          "Matériel didactique": 4010.17,
-          "Aliments & boissons": 43977.94,
-          "Services spécialisés": 53497.62,
-          "Sorties éducatives": 1271.25
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 76917.1,
-          "Revenus internes / intérêts": 3419.0
-        },
-        "granularity": 5,
-        "spendThrough": 0.5047,
-        "hoardRatio": 0.982,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 13737.0,
-          "fundraised": 12067.0,
-          "internalRev": 1395.0,
-          "spent": 14370.54,
-          "balance": 70961.46,
-          "surplusIn": 71595.0,
-          "activityBudget": 82095.0,
-          "budgetRevenu": 10500.0,
-          "expenses": {
-            "Fournitures": 599.95,
-            "Matériel didactique": 1729.68,
-            "Aliments & boissons": 505.06,
-            "Services spécialisés": 3254.99,
-            "Transport": 2805.79,
-            "Sorties éducatives": 5475.07
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 12067.0,
-            "Revenus internes / intérêts": 1395.0,
-            "Gala / événement": 275.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.1684,
-          "hoardRatio": 4.938,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": -3854.5,
-          "fundraised": -4405.5,
-          "internalRev": 551.0,
-          "spent": 5763.63,
-          "balance": 65944.87,
-          "surplusIn": 75563.0,
-          "activityBudget": 86063.0,
-          "budgetRevenu": 10500.0,
-          "expenses": {
-            "Fournitures": 1356.74,
-            "Matériel didactique": 3304.66,
-            "Aliments & boissons": 674.29,
-            "Services spécialisés": 934.14,
-            "Sorties éducatives": -506.2
-          },
-          "revenues": {
-            "Ventes & levées de fonds": -4405.5,
-            "Revenus internes / intérêts": 551.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.0804,
-          "hoardRatio": 11.442,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 41943.73,
-          "fundraised": 41203.73,
-          "internalRev": 740.0,
-          "spent": 52882.3,
-          "balance": 61243.43,
-          "surplusIn": 72182.0,
-          "activityBudget": 82682.0,
-          "budgetRevenu": 10500.0,
-          "expenses": {
-            "Fournitures": 4788.78,
-            "Matériel didactique": 24994.68,
-            "Aliments & boissons": 18884.71,
-            "Services spécialisés": 1802.39,
-            "Transport": 587.88,
-            "Sorties éducatives": 1823.86
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 41203.73,
-            "Revenus internes / intérêts": 740.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.4634,
-          "hoardRatio": 1.158,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 63171.12,
-          "fundraised": 60843.12,
-          "internalRev": 2328.0,
-          "spent": 63214.26,
-          "balance": 65135.86,
-          "surplusIn": 65179.0,
-          "activityBudget": 85679.0,
-          "budgetRevenu": 20500.0,
-          "expenses": {
-            "Fournitures": 3917.59,
-            "Matériel didactique": 27448.46,
-            "Aliments & boissons": 29372.81,
-            "Services spécialisés": 357.4,
-            "Sorties éducatives": 2118.0
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 60843.12,
-            "Revenus internes / intérêts": 2328.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.4925,
-          "hoardRatio": 1.03,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 100631.8,
-          "fundraised": 97751.8,
-          "internalRev": 2880.0,
-          "spent": 38872.09,
-          "balance": 131669.71,
-          "surplusIn": 69910.0,
-          "activityBudget": 103910.0,
-          "budgetRevenu": 34000.0,
-          "expenses": {
-            "Fournitures": 7589.58,
-            "Matériel didactique": 2574.4,
-            "Aliments & boissons": 26247.31,
-            "Services spécialisés": 141.0,
-            "Sorties éducatives": 2319.8
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 97751.8,
-            "Revenus internes / intérêts": 2880.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.2279,
-          "hoardRatio": 3.387,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 80336.1,
-          "fundraised": 76917.1,
-          "internalRev": 3419.0,
-          "spent": 112220.44,
-          "balance": 110147.66,
-          "surplusIn": 142032.0,
-          "activityBudget": 193532.0,
-          "budgetRevenu": 51500.0,
-          "expenses": {
-            "Fournitures": 9463.46,
-            "Matériel didactique": 4010.17,
-            "Aliments & boissons": 43977.94,
-            "Services spécialisés": 53497.62,
-            "Sorties éducatives": 1271.25
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 76917.1,
-            "Revenus internes / intérêts": 3419.0
-          },
-          "granularity": 5,
-          "spendThrough": 0.5047,
-          "hoardRatio": 0.982,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": -200.0,
-          "fundraised": -200.0,
-          "internalRev": 0.0,
-          "spent": 1544.41,
-          "balance": -1744.41,
-          "surplusIn": 0.0,
-          "activityBudget": 45000.0,
-          "budgetRevenu": 45000.0,
-          "expenses": {
-            "Fournitures": 1267.67,
-            "Matériel didactique": 203.53,
-            "Aliments & boissons": 73.21
-          },
-          "revenues": {
-            "Ventes & levées de fonds": -200.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.0,
-          "hoardRatio": -1.129,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 48,
-        "spend": 55,
-        "rigour": 65
-      },
-      "composite": 57.0,
-      "grade": "C",
-      "rank": 10
-    },
-    {
       "code": "006",
       "name": "Internationale du Village",
-      "sizeProxy": 885911,
       "totalBudget": 1791553,
       "latest": {
         "raised": 93920.01,
@@ -2224,6 +2447,12 @@
         "revenues": {
           "Ventes & levées de fonds": 91251.01,
           "Revenus internes / intérêts": 2669.0
+        },
+        "expBudget": {
+          "Services spécialisés": 176000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 176000.0
         },
         "granularity": 4,
         "spendThrough": 0.5685,
@@ -2254,6 +2483,13 @@
             "Revenus internes / intérêts": 1481.0,
             "Gala / événement": 525.0
           },
+          "expBudget": {
+            "Aliments & boissons": 22750.0,
+            "Services spécialisés": 22750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 45500.0
+          },
           "granularity": 6,
           "spendThrough": 0.4117,
           "hoardRatio": 1.429,
@@ -2278,6 +2514,12 @@
           "revenues": {
             "Ventes & levées de fonds": 43347.3,
             "Revenus internes / intérêts": 742.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 44891.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 44891.0
           },
           "granularity": 4,
           "spendThrough": 0.2445,
@@ -2304,6 +2546,12 @@
           "revenues": {
             "Ventes & levées de fonds": 59001.37,
             "Revenus internes / intérêts": 1082.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 39714.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 39714.0
           },
           "granularity": 5,
           "spendThrough": 0.4151,
@@ -2333,6 +2581,13 @@
             "Ventes & levées de fonds": 95065.29,
             "Revenus internes / intérêts": 3521.0
           },
+          "expBudget": {
+            "Aliments & boissons": 37000.0,
+            "Services spécialisés": 37419.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 74419.0
+          },
           "granularity": 7,
           "spendThrough": 0.4453,
           "hoardRatio": 1.245,
@@ -2360,6 +2615,12 @@
             "Ventes & levées de fonds": 69875.08,
             "Revenus internes / intérêts": 3016.0
           },
+          "expBudget": {
+            "Services spécialisés": 159669.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 159669.0
+          },
           "granularity": 6,
           "spendThrough": 0.3709,
           "hoardRatio": 1.696,
@@ -2385,6 +2646,12 @@
             "Ventes & levées de fonds": 91251.01,
             "Revenus internes / intérêts": 2669.0
           },
+          "expBudget": {
+            "Services spécialisés": 176000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 176000.0
+          },
           "granularity": 4,
           "spendThrough": 0.5685,
           "hoardRatio": 0.759,
@@ -2406,6 +2673,12 @@
           "revenues": {
             "Ventes & levées de fonds": 26469.0
           },
+          "expBudget": {
+            "Services spécialisés": 62000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 162160.0
+          },
           "granularity": 1,
           "spendThrough": 0.0039,
           "hoardRatio": 51.938,
@@ -2414,330 +2687,294 @@
         }
       ],
       "scores": {
-        "fundraising": 53,
+        "fundraising": 70,
         "spend": 61,
         "rigour": 52
       },
-      "composite": 56.1,
+      "composite": 59.5,
       "grade": "C",
-      "rank": 11
+      "rank": 10
     },
     {
-      "code": "026",
-      "name": "du Marais",
-      "sizeProxy": 501497,
-      "totalBudget": 1011807,
+      "code": "012",
+      "name": "du Grand-Boisé",
+      "totalBudget": 1302609,
       "latest": {
-        "raised": 49736.9,
-        "fundraised": 48594.9,
-        "internalRev": 1142.0,
-        "spent": 41338.22,
-        "balance": 47728.68,
-        "surplusIn": 39330.0,
-        "activityBudget": 86310.0,
-        "budgetRevenu": 46980.0,
+        "raised": 80336.1,
+        "fundraised": 76917.1,
+        "internalRev": 3419.0,
+        "spent": 112220.44,
+        "balance": 110147.66,
+        "surplusIn": 142032.0,
+        "activityBudget": 193532.0,
+        "budgetRevenu": 51500.0,
         "expenses": {
-          "Fournitures": 2719.59,
-          "Livres / revues": 2493.65,
-          "Matériel didactique": 196.68,
-          "Aliments & boissons": 34904.77,
-          "Transport": 1023.53
+          "Fournitures": 9463.46,
+          "Matériel didactique": 4010.17,
+          "Aliments & boissons": 43977.94,
+          "Services spécialisés": 53497.62,
+          "Sorties éducatives": 1271.25
         },
         "revenues": {
-          "Ventes & levées de fonds": 48594.9,
-          "Revenus internes / intérêts": 1142.0
+          "Ventes & levées de fonds": 76917.1,
+          "Revenus internes / intérêts": 3419.0
+        },
+        "expBudget": {
+          "Services spécialisés": 51500.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 51500.0
         },
         "granularity": 5,
-        "spendThrough": 0.4641,
-        "hoardRatio": 1.155,
+        "spendThrough": 0.5047,
+        "hoardRatio": 0.982,
         "year": "24-25",
         "provisional": false
       },
       "history": [
         {
-          "raised": 61055.13,
-          "fundraised": 60344.13,
-          "internalRev": 711.0,
-          "spent": 48630.34,
-          "balance": 43714.79,
-          "surplusIn": 31290.0,
-          "activityBudget": 99290.0,
-          "budgetRevenu": 68000.0,
+          "raised": 13737.0,
+          "fundraised": 12067.0,
+          "internalRev": 1395.0,
+          "spent": 14370.54,
+          "balance": 70961.46,
+          "surplusIn": 71595.0,
+          "activityBudget": 82095.0,
+          "budgetRevenu": 10500.0,
           "expenses": {
-            "Fournitures": 6257.64,
-            "Matériel didactique": 170.8,
-            "Aliments & boissons": 22403.5,
-            "Services spécialisés": 17707.93,
-            "Transport": 2084.29,
-            "Salaires & charges": 6.18
+            "Fournitures": 599.95,
+            "Matériel didactique": 1729.68,
+            "Aliments & boissons": 505.06,
+            "Services spécialisés": 3254.99,
+            "Transport": 2805.79,
+            "Sorties éducatives": 5475.07
           },
           "revenues": {
-            "Ventes & levées de fonds": 60344.13,
-            "Revenus internes / intérêts": 711.0
+            "Ventes & levées de fonds": 12067.0,
+            "Revenus internes / intérêts": 1395.0,
+            "Gala / événement": 275.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 5250.0,
+            "Services spécialisés": 5250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10500.0
           },
           "granularity": 6,
-          "spendThrough": 0.5266,
-          "hoardRatio": 0.899,
+          "spendThrough": 0.1684,
+          "hoardRatio": 4.938,
           "year": "19-20",
           "provisional": false
         },
         {
-          "raised": 36048.55,
-          "fundraised": 35704.55,
-          "internalRev": 344.0,
-          "spent": 31151.18,
-          "balance": 48612.37,
-          "surplusIn": 43715.0,
-          "activityBudget": 126278.0,
-          "budgetRevenu": 82563.0,
+          "raised": -3854.5,
+          "fundraised": -4405.5,
+          "internalRev": 551.0,
+          "spent": 5763.63,
+          "balance": 65944.87,
+          "surplusIn": 75563.0,
+          "activityBudget": 86063.0,
+          "budgetRevenu": 10500.0,
           "expenses": {
-            "Fournitures": 7459.18,
-            "Livres / revues": 455.55,
-            "Matériel didactique": 1200.38,
-            "Aliments & boissons": 19412.82,
-            "Services spécialisés": 2623.25
+            "Fournitures": 1356.74,
+            "Matériel didactique": 3304.66,
+            "Aliments & boissons": 674.29,
+            "Services spécialisés": 934.14,
+            "Sorties éducatives": -506.2
           },
           "revenues": {
-            "Ventes & levées de fonds": 35704.55,
-            "Revenus internes / intérêts": 344.0
+            "Ventes & levées de fonds": -4405.5,
+            "Revenus internes / intérêts": 551.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 5250.0,
+            "Services spécialisés": 5250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10500.0
           },
           "granularity": 5,
-          "spendThrough": 0.3905,
-          "hoardRatio": 1.561,
+          "spendThrough": 0.0804,
+          "hoardRatio": 11.442,
           "year": "20-21",
           "provisional": false
         },
         {
-          "raised": 56825.48,
-          "fundraised": 56508.48,
-          "internalRev": 317.0,
-          "spent": 95125.46,
-          "balance": 10312.02,
-          "surplusIn": 48612.0,
-          "activityBudget": 109612.0,
-          "budgetRevenu": 61000.0,
+          "raised": 41943.73,
+          "fundraised": 41203.73,
+          "internalRev": 740.0,
+          "spent": 52882.3,
+          "balance": 61243.43,
+          "surplusIn": 72182.0,
+          "activityBudget": 82682.0,
+          "budgetRevenu": 10500.0,
           "expenses": {
-            "Fournitures": 9468.68,
-            "Matériel didactique": 2235.34,
-            "Aliments & boissons": 42233.75,
-            "Services spécialisés": 37813.14,
-            "Transport": 3374.55
+            "Fournitures": 4788.78,
+            "Matériel didactique": 24994.68,
+            "Aliments & boissons": 18884.71,
+            "Services spécialisés": 1802.39,
+            "Transport": 587.88,
+            "Sorties éducatives": 1823.86
           },
           "revenues": {
-            "Ventes & levées de fonds": 56508.48,
-            "Revenus internes / intérêts": 317.0
+            "Ventes & levées de fonds": 41203.73,
+            "Revenus internes / intérêts": 740.0
           },
-          "granularity": 5,
-          "spendThrough": 0.9022,
-          "hoardRatio": 0.108,
+          "expBudget": {
+            "Aliments & boissons": 5250.0,
+            "Services spécialisés": 5250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10500.0
+          },
+          "granularity": 6,
+          "spendThrough": 0.4634,
+          "hoardRatio": 1.158,
           "year": "21-22",
           "provisional": false
         },
         {
-          "raised": 87362.71,
-          "fundraised": 86704.71,
-          "internalRev": 658.0,
-          "spent": 69777.75,
-          "balance": 27896.96,
-          "surplusIn": 10312.0,
-          "activityBudget": 61312.0,
-          "budgetRevenu": 51000.0,
+          "raised": 63171.12,
+          "fundraised": 60843.12,
+          "internalRev": 2328.0,
+          "spent": 63214.26,
+          "balance": 65135.86,
+          "surplusIn": 65179.0,
+          "activityBudget": 85679.0,
+          "budgetRevenu": 20500.0,
           "expenses": {
-            "Fournitures": -761.69,
-            "Livres / revues": 1146.5,
-            "Matériel didactique": 3465.05,
-            "Aliments & boissons": 42619.33,
-            "Services spécialisés": 8445.35,
-            "Transport": 9101.41,
-            "Sorties éducatives": 5761.8
+            "Fournitures": 3917.59,
+            "Matériel didactique": 27448.46,
+            "Aliments & boissons": 29372.81,
+            "Services spécialisés": 357.4,
+            "Sorties éducatives": 2118.0
           },
           "revenues": {
-            "Ventes & levées de fonds": 86704.71,
-            "Revenus internes / intérêts": 658.0
+            "Ventes & levées de fonds": 60843.12,
+            "Revenus internes / intérêts": 2328.0
           },
-          "granularity": 7,
-          "spendThrough": 0.7144,
-          "hoardRatio": 0.4,
+          "expBudget": {
+            "Fournitures": 5000.0,
+            "Matériel didactique": 7500.0,
+            "Aliments & boissons": 5500.0,
+            "Services spécialisés": 2500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20500.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.4925,
+          "hoardRatio": 1.03,
           "year": "22-23",
           "provisional": false
         },
         {
-          "raised": 34490.36,
-          "fundraised": 33577.36,
-          "internalRev": 913.0,
-          "spent": 23057.74,
-          "balance": 39329.62,
-          "surplusIn": 27897.0,
-          "activityBudget": 58897.0,
-          "budgetRevenu": 31000.0,
+          "raised": 100631.8,
+          "fundraised": 97751.8,
+          "internalRev": 2880.0,
+          "spent": 38872.09,
+          "balance": 131669.71,
+          "surplusIn": 69910.0,
+          "activityBudget": 103910.0,
+          "budgetRevenu": 34000.0,
           "expenses": {
-            "Fournitures": 3959.55,
-            "Matériel didactique": 307.91,
-            "Aliments & boissons": 19031.75,
-            "Services spécialisés": 1632.71,
-            "Sorties éducatives": -1874.18
+            "Fournitures": 7589.58,
+            "Matériel didactique": 2574.4,
+            "Aliments & boissons": 26247.31,
+            "Services spécialisés": 141.0,
+            "Sorties éducatives": 2319.8
           },
           "revenues": {
-            "Ventes & levées de fonds": 33577.36,
-            "Revenus internes / intérêts": 913.0
+            "Ventes & levées de fonds": 97751.8,
+            "Revenus internes / intérêts": 2880.0
+          },
+          "expBudget": {
+            "Services spécialisés": 34000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 34000.0
           },
           "granularity": 5,
-          "spendThrough": 0.3696,
-          "hoardRatio": 1.706,
+          "spendThrough": 0.2279,
+          "hoardRatio": 3.387,
           "year": "23-24",
           "provisional": false
         },
         {
-          "raised": 49736.9,
-          "fundraised": 48594.9,
-          "internalRev": 1142.0,
-          "spent": 41338.22,
-          "balance": 47728.68,
-          "surplusIn": 39330.0,
-          "activityBudget": 86310.0,
-          "budgetRevenu": 46980.0,
+          "raised": 80336.1,
+          "fundraised": 76917.1,
+          "internalRev": 3419.0,
+          "spent": 112220.44,
+          "balance": 110147.66,
+          "surplusIn": 142032.0,
+          "activityBudget": 193532.0,
+          "budgetRevenu": 51500.0,
           "expenses": {
-            "Fournitures": 2719.59,
-            "Livres / revues": 2493.65,
-            "Matériel didactique": 196.68,
-            "Aliments & boissons": 34904.77,
-            "Transport": 1023.53
+            "Fournitures": 9463.46,
+            "Matériel didactique": 4010.17,
+            "Aliments & boissons": 43977.94,
+            "Services spécialisés": 53497.62,
+            "Sorties éducatives": 1271.25
           },
           "revenues": {
-            "Ventes & levées de fonds": 48594.9,
-            "Revenus internes / intérêts": 1142.0
+            "Ventes & levées de fonds": 76917.1,
+            "Revenus internes / intérêts": 3419.0
+          },
+          "expBudget": {
+            "Services spécialisés": 51500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 51500.0
           },
           "granularity": 5,
-          "spendThrough": 0.4641,
-          "hoardRatio": 1.155,
+          "spendThrough": 0.5047,
+          "hoardRatio": 0.982,
           "year": "24-25",
           "provisional": false
         },
         {
-          "raised": 11617.9,
-          "fundraised": 11617.9,
+          "raised": -200.0,
+          "fundraised": -200.0,
           "internalRev": 0.0,
-          "spent": 2512.93,
-          "balance": 9104.97,
+          "spent": 1544.41,
+          "balance": -1744.41,
           "surplusIn": 0.0,
-          "activityBudget": 46500.0,
-          "budgetRevenu": 46500.0,
+          "activityBudget": 45000.0,
+          "budgetRevenu": 45000.0,
           "expenses": {
-            "Aliments & boissons": 965.67,
-            "Services spécialisés": 1547.26
+            "Fournitures": 1267.67,
+            "Matériel didactique": 203.53,
+            "Aliments & boissons": 73.21
           },
           "revenues": {
-            "Ventes & levées de fonds": 11617.9
+            "Ventes & levées de fonds": -200.0
           },
-          "granularity": 2,
-          "spendThrough": 0.2163,
-          "hoardRatio": 3.623,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 35,
-        "spend": 50,
-        "rigour": 70
-      },
-      "composite": 54.1,
-      "grade": "D",
-      "rank": 12
-    },
-    {
-      "code": "037",
-      "name": "de l'Aigle",
-      "sizeProxy": 341232,
-      "totalBudget": 704153,
-      "latest": {
-        "raised": 50688.82,
-        "fundraised": 50431.82,
-        "internalRev": 257.0,
-        "spent": 31046.43,
-        "balance": 19642.39,
-        "surplusIn": 0.0,
-        "activityBudget": 18500.0,
-        "budgetRevenu": 1138157.0,
-        "expenses": {
-          "Fournitures": 1527.07,
-          "Aliments & boissons": 22846.23,
-          "Services spécialisés": 4728.21,
-          "Transport": 1944.92
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 50431.82,
-          "Revenus internes / intérêts": 257.0
-        },
-        "granularity": 4,
-        "spendThrough": 0.6125,
-        "hoardRatio": 0.633,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 50688.82,
-          "fundraised": 50431.82,
-          "internalRev": 257.0,
-          "spent": 31046.43,
-          "balance": 19642.39,
-          "surplusIn": 0.0,
-          "activityBudget": 18500.0,
-          "budgetRevenu": 1138157.0,
-          "expenses": {
-            "Fournitures": 1527.07,
-            "Aliments & boissons": 22846.23,
-            "Services spécialisés": 4728.21,
-            "Transport": 1944.92
+          "expBudget": {
+            "Services spécialisés": 45000.0
           },
-          "revenues": {
-            "Ventes & levées de fonds": 50431.82,
-            "Revenus internes / intérêts": 257.0
-          },
-          "granularity": 4,
-          "spendThrough": 0.6125,
-          "hoardRatio": 0.633,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 22996.5,
-          "fundraised": 22996.5,
-          "internalRev": 0.0,
-          "spent": 3997.81,
-          "balance": 18998.69,
-          "surplusIn": 0.0,
-          "activityBudget": 43500.0,
-          "budgetRevenu": 1000368.0,
-          "expenses": {
-            "Fournitures": 64.33,
-            "Aliments & boissons": 1772.09,
-            "Services spécialisés": 2161.39
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 22996.5
+          "revBudget": {
+            "Ventes & levées de fonds": 45000.0
           },
           "granularity": 3,
-          "spendThrough": 0.1738,
-          "hoardRatio": 4.752,
+          "spendThrough": 0.0,
+          "hoardRatio": -1.129,
           "year": "25-26",
           "provisional": true
         }
       ],
       "scores": {
-        "fundraising": 44,
-        "spend": 65,
-        "rigour": 44
+        "fundraising": 60,
+        "spend": 55,
+        "rigour": 65
       },
-      "composite": 53.4,
-      "grade": "D",
-      "rank": 13
+      "composite": 59.4,
+      "grade": "C",
+      "rank": 11
     },
     {
       "code": "033",
       "name": "des Cavaliers",
-      "sizeProxy": 843906,
       "totalBudget": 1472389,
       "latest": {
         "raised": 62901.3,
@@ -2760,6 +2997,12 @@
         "revenues": {
           "Ventes & levées de fonds": 60130.3,
           "Revenus internes / intérêts": 2771.0
+        },
+        "expBudget": {
+          "Services spécialisés": 47000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 47000.0
         },
         "granularity": 7,
         "spendThrough": 0.3912,
@@ -2788,6 +3031,13 @@
             "Revenus internes / intérêts": 2215.0,
             "Gala / événement": 100.0
           },
+          "expBudget": {
+            "Aliments & boissons": 28750.0,
+            "Services spécialisés": 28750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 57500.0
+          },
           "granularity": 4,
           "spendThrough": 0.1431,
           "hoardRatio": 5.989,
@@ -2810,6 +3060,13 @@
           "revenues": {
             "Ventes & levées de fonds": 30147.93,
             "Revenus internes / intérêts": 978.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 28750.0,
+            "Services spécialisés": 25160.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 53910.0
           },
           "granularity": 2,
           "spendThrough": 0.1337,
@@ -2834,6 +3091,13 @@
           "revenues": {
             "Ventes & levées de fonds": 46370.07,
             "Revenus internes / intérêts": 1283.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 20540.0,
+            "Services spécialisés": 20540.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 41080.0
           },
           "granularity": 3,
           "spendThrough": 0.4448,
@@ -2862,6 +3126,15 @@
             "Ventes & levées de fonds": 45828.0,
             "Revenus internes / intérêts": 3348.0
           },
+          "expBudget": {
+            "Fournitures": 2050.0,
+            "Aliments & boissons": 22500.0,
+            "Services spécialisés": 14500.0,
+            "Sorties éducatives": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 44050.0
+          },
           "granularity": 6,
           "spendThrough": 0.3899,
           "hoardRatio": 1.565,
@@ -2888,6 +3161,12 @@
           "revenues": {
             "Ventes & levées de fonds": 44246.45,
             "Revenus internes / intérêts": 2715.0
+          },
+          "expBudget": {
+            "Services spécialisés": 57750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 57750.0
           },
           "granularity": 6,
           "spendThrough": 0.2276,
@@ -2917,6 +3196,12 @@
             "Ventes & levées de fonds": 60130.3,
             "Revenus internes / intérêts": 2771.0
           },
+          "expBudget": {
+            "Services spécialisés": 47000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 47000.0
+          },
           "granularity": 7,
           "spendThrough": 0.3912,
           "hoardRatio": 1.556,
@@ -2939,6 +3224,12 @@
           "revenues": {
             "Ventes & levées de fonds": 25514.35
           },
+          "expBudget": {
+            "Services spécialisés": 51000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 51000.0
+          },
           "granularity": 2,
           "spendThrough": 0.0697,
           "hoardRatio": 13.34,
@@ -2947,217 +3238,653 @@
         }
       ],
       "scores": {
-        "fundraising": 36,
+        "fundraising": 47,
         "spend": 40,
         "rigour": 77
       },
-      "composite": 52.5,
+      "composite": 54.7,
       "grade": "D",
-      "rank": 14
+      "rank": 12
     },
     {
-      "code": "019",
-      "name": "Saint-Rédempteur",
-      "sizeProxy": 281785,
-      "totalBudget": 734718,
+      "code": "026",
+      "name": "du Marais",
+      "totalBudget": 1011807,
       "latest": {
-        "raised": 31749.9,
-        "fundraised": 31477.9,
-        "internalRev": 272.0,
-        "spent": 21362.5,
-        "balance": 15580.4,
-        "surplusIn": 5193.0,
-        "activityBudget": 13640.0,
-        "budgetRevenu": 8447.0,
+        "raised": 49736.9,
+        "fundraised": 48594.9,
+        "internalRev": 1142.0,
+        "spent": 41338.22,
+        "balance": 47728.68,
+        "surplusIn": 39330.0,
+        "activityBudget": 86310.0,
+        "budgetRevenu": 46980.0,
         "expenses": {
-          "Fournitures": 6425.6,
-          "Aliments & boissons": 10428.54,
-          "Services spécialisés": 3990.1,
-          "Transport": 518.26
+          "Fournitures": 2719.59,
+          "Livres / revues": 2493.65,
+          "Matériel didactique": 196.68,
+          "Aliments & boissons": 34904.77,
+          "Transport": 1023.53
         },
         "revenues": {
-          "Ventes & levées de fonds": 31477.9,
-          "Revenus internes / intérêts": 272.0
+          "Ventes & levées de fonds": 48594.9,
+          "Revenus internes / intérêts": 1142.0
         },
-        "granularity": 4,
-        "spendThrough": 0.5783,
-        "hoardRatio": 0.729,
+        "expBudget": {
+          "Services spécialisés": 46980.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 46980.0
+        },
+        "granularity": 5,
+        "spendThrough": 0.4641,
+        "hoardRatio": 1.155,
         "year": "24-25",
         "provisional": false
       },
       "history": [
         {
-          "raised": 6428.4,
-          "fundraised": 5783.8,
-          "internalRev": 594.0,
-          "spent": 248.2,
-          "balance": 34409.2,
-          "surplusIn": 28229.0,
-          "activityBudget": 28229.0,
-          "budgetRevenu": 0.0,
+          "raised": 61055.13,
+          "fundraised": 60344.13,
+          "internalRev": 711.0,
+          "spent": 48630.34,
+          "balance": 43714.79,
+          "surplusIn": 31290.0,
+          "activityBudget": 99290.0,
+          "budgetRevenu": 68000.0,
           "expenses": {
-            "Sorties éducatives": 248.2
+            "Fournitures": 6257.64,
+            "Matériel didactique": 170.8,
+            "Aliments & boissons": 22403.5,
+            "Services spécialisés": 17707.93,
+            "Transport": 2084.29,
+            "Salaires & charges": 6.18
           },
           "revenues": {
-            "Ventes & levées de fonds": 5783.8,
-            "Revenus internes / intérêts": 594.0,
-            "Gala / événement": 50.6
+            "Ventes & levées de fonds": 60344.13,
+            "Revenus internes / intérêts": 711.0
           },
-          "granularity": 1,
-          "spendThrough": 0.0072,
-          "hoardRatio": 138.635,
+          "expBudget": {
+            "Aliments & boissons": 34000.0,
+            "Services spécialisés": 34000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 68000.0
+          },
+          "granularity": 6,
+          "spendThrough": 0.5266,
+          "hoardRatio": 0.899,
           "year": "19-20",
           "provisional": false
         },
         {
-          "raised": 2694.59,
-          "fundraised": 2427.59,
-          "internalRev": 267.0,
-          "spent": 0.0,
-          "balance": 37103.59,
-          "surplusIn": 34409.0,
-          "activityBudget": 34409.0,
-          "budgetRevenu": 0.0,
-          "expenses": {},
-          "revenues": {
-            "Ventes & levées de fonds": 2427.59,
-            "Revenus internes / intérêts": 267.0
+          "raised": 36048.55,
+          "fundraised": 35704.55,
+          "internalRev": 344.0,
+          "spent": 31151.18,
+          "balance": 48612.37,
+          "surplusIn": 43715.0,
+          "activityBudget": 126278.0,
+          "budgetRevenu": 82563.0,
+          "expenses": {
+            "Fournitures": 7459.18,
+            "Livres / revues": 455.55,
+            "Matériel didactique": 1200.38,
+            "Aliments & boissons": 19412.82,
+            "Services spécialisés": 2623.25
           },
-          "granularity": 0,
-          "spendThrough": 0.0,
-          "hoardRatio": 99.0,
+          "revenues": {
+            "Ventes & levées de fonds": 35704.55,
+            "Revenus internes / intérêts": 344.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 82563.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 82563.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.3905,
+          "hoardRatio": 1.561,
           "year": "20-21",
           "provisional": false
         },
         {
-          "raised": 2816.74,
-          "fundraised": 2603.74,
-          "internalRev": 213.0,
-          "spent": 37500.0,
-          "balance": 2420.74,
-          "surplusIn": 37104.0,
-          "activityBudget": 37104.0,
-          "budgetRevenu": 0.0,
+          "raised": 56825.48,
+          "fundraised": 56508.48,
+          "internalRev": 317.0,
+          "spent": 95125.46,
+          "balance": 10312.02,
+          "surplusIn": 48612.0,
+          "activityBudget": 109612.0,
+          "budgetRevenu": 61000.0,
           "expenses": {
-            "Services spécialisés": 37500.0
+            "Fournitures": 9468.68,
+            "Matériel didactique": 2235.34,
+            "Aliments & boissons": 42233.75,
+            "Services spécialisés": 37813.14,
+            "Transport": 3374.55
           },
           "revenues": {
-            "Ventes & levées de fonds": 2603.74,
-            "Revenus internes / intérêts": 213.0
+            "Ventes & levées de fonds": 56508.48,
+            "Revenus internes / intérêts": 317.0
           },
-          "granularity": 1,
-          "spendThrough": 0.9394,
-          "hoardRatio": 0.065,
+          "expBudget": {
+            "Aliments & boissons": 61000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 61000.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.9022,
+          "hoardRatio": 0.108,
           "year": "21-22",
           "provisional": false
         },
         {
-          "raised": 21648.2,
-          "fundraised": 21468.2,
-          "internalRev": 180.0,
-          "spent": 15996.09,
-          "balance": 8073.11,
-          "surplusIn": 2421.0,
-          "activityBudget": 2421.0,
-          "budgetRevenu": 0.0,
+          "raised": 87362.71,
+          "fundraised": 86704.71,
+          "internalRev": 658.0,
+          "spent": 69777.75,
+          "balance": 27896.96,
+          "surplusIn": 10312.0,
+          "activityBudget": 61312.0,
+          "budgetRevenu": 51000.0,
           "expenses": {
-            "Fournitures": 3050.01,
-            "Aliments & boissons": 12272.69,
-            "Sorties éducatives": 673.39
+            "Fournitures": -761.69,
+            "Livres / revues": 1146.5,
+            "Matériel didactique": 3465.05,
+            "Aliments & boissons": 42619.33,
+            "Services spécialisés": 8445.35,
+            "Transport": 9101.41,
+            "Sorties éducatives": 5761.8
           },
           "revenues": {
-            "Ventes & levées de fonds": 21468.2,
-            "Revenus internes / intérêts": 180.0
+            "Ventes & levées de fonds": 86704.71,
+            "Revenus internes / intérêts": 658.0
           },
-          "granularity": 3,
-          "spendThrough": 0.6646,
-          "hoardRatio": 0.505,
+          "expBudget": {
+            "Fournitures": 10000.0,
+            "Matériel didactique": 6000.0,
+            "Aliments & boissons": 30000.0,
+            "Services spécialisés": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 51000.0
+          },
+          "granularity": 7,
+          "spendThrough": 0.7144,
+          "hoardRatio": 0.4,
           "year": "22-23",
           "provisional": false
         },
         {
-          "raised": 10319.35,
-          "fundraised": 10139.35,
-          "internalRev": 180.0,
-          "spent": 13199.18,
-          "balance": 5193.17,
-          "surplusIn": 8073.0,
-          "activityBudget": 19393.0,
-          "budgetRevenu": 11320.0,
+          "raised": 34490.36,
+          "fundraised": 33577.36,
+          "internalRev": 913.0,
+          "spent": 23057.74,
+          "balance": 39329.62,
+          "surplusIn": 27897.0,
+          "activityBudget": 58897.0,
+          "budgetRevenu": 31000.0,
           "expenses": {
-            "Fournitures": 218.44,
-            "Aliments & boissons": 10524.19,
-            "Services spécialisés": 931.96,
-            "Transport": 1524.59
+            "Fournitures": 3959.55,
+            "Matériel didactique": 307.91,
+            "Aliments & boissons": 19031.75,
+            "Services spécialisés": 1632.71,
+            "Sorties éducatives": -1874.18
           },
           "revenues": {
-            "Ventes & levées de fonds": 10139.35,
-            "Revenus internes / intérêts": 180.0
+            "Ventes & levées de fonds": 33577.36,
+            "Revenus internes / intérêts": 913.0
           },
-          "granularity": 4,
-          "spendThrough": 0.7176,
-          "hoardRatio": 0.393,
+          "expBudget": {
+            "Services spécialisés": 31000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31000.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.3696,
+          "hoardRatio": 1.706,
           "year": "23-24",
           "provisional": false
         },
         {
-          "raised": 31749.9,
-          "fundraised": 31477.9,
-          "internalRev": 272.0,
-          "spent": 21362.5,
-          "balance": 15580.4,
-          "surplusIn": 5193.0,
-          "activityBudget": 13640.0,
-          "budgetRevenu": 8447.0,
+          "raised": 49736.9,
+          "fundraised": 48594.9,
+          "internalRev": 1142.0,
+          "spent": 41338.22,
+          "balance": 47728.68,
+          "surplusIn": 39330.0,
+          "activityBudget": 86310.0,
+          "budgetRevenu": 46980.0,
           "expenses": {
-            "Fournitures": 6425.6,
-            "Aliments & boissons": 10428.54,
-            "Services spécialisés": 3990.1,
-            "Transport": 518.26
+            "Fournitures": 2719.59,
+            "Livres / revues": 2493.65,
+            "Matériel didactique": 196.68,
+            "Aliments & boissons": 34904.77,
+            "Transport": 1023.53
           },
           "revenues": {
-            "Ventes & levées de fonds": 31477.9,
-            "Revenus internes / intérêts": 272.0
+            "Ventes & levées de fonds": 48594.9,
+            "Revenus internes / intérêts": 1142.0
           },
-          "granularity": 4,
-          "spendThrough": 0.5783,
-          "hoardRatio": 0.729,
+          "expBudget": {
+            "Services spécialisés": 46980.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 46980.0
+          },
+          "granularity": 5,
+          "spendThrough": 0.4641,
+          "hoardRatio": 1.155,
           "year": "24-25",
           "provisional": false
         },
         {
-          "raised": 0.0,
-          "fundraised": 645.0,
+          "raised": 11617.9,
+          "fundraised": 11617.9,
           "internalRev": 0.0,
-          "spent": 0.0,
-          "balance": 0.0,
+          "spent": 2512.93,
+          "balance": 9104.97,
           "surplusIn": 0.0,
-          "activityBudget": 0.0,
-          "budgetRevenu": 0.0,
-          "expenses": {},
-          "revenues": {
-            "Ventes & levées de fonds": 645.0
+          "activityBudget": 46500.0,
+          "budgetRevenu": 46500.0,
+          "expenses": {
+            "Aliments & boissons": 965.67,
+            "Services spécialisés": 1547.26
           },
-          "granularity": 0,
-          "spendThrough": 0.0,
-          "hoardRatio": 0.0,
+          "revenues": {
+            "Ventes & levées de fonds": 11617.9
+          },
+          "expBudget": {
+            "Aliments & boissons": 46500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 46500.0
+          },
+          "granularity": 2,
+          "spendThrough": 0.2163,
+          "hoardRatio": 3.623,
           "year": "25-26",
           "provisional": true
         }
       ],
       "scores": {
-        "fundraising": 31,
-        "spend": 62,
-        "rigour": 51
+        "fundraising": 37,
+        "spend": 50,
+        "rigour": 70
       },
-      "composite": 51.7,
+      "composite": 54.6,
+      "grade": "D",
+      "rank": 13
+    },
+    {
+      "code": "034",
+      "name": "de la Forêt",
+      "totalBudget": 1405816,
+      "latest": {
+        "raised": 133876.4,
+        "fundraised": 132135.4,
+        "internalRev": 1741.0,
+        "spent": 59570.54,
+        "balance": 103528.86,
+        "surplusIn": 29223.0,
+        "activityBudget": 54223.0,
+        "budgetRevenu": 25000.0,
+        "expenses": {
+          "Fournitures": 8149.8,
+          "Aliments & boissons": 46505.49,
+          "Services spécialisés": 4915.25
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 132135.4,
+          "Revenus internes / intérêts": 1741.0
+        },
+        "expBudget": {
+          "Services spécialisés": 25000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 25000.0
+        },
+        "granularity": 3,
+        "spendThrough": 0.3652,
+        "hoardRatio": 1.738,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 78021.15,
+          "fundraised": 75812.15,
+          "internalRev": 2059.0,
+          "spent": 27539.45,
+          "balance": 133800.7,
+          "surplusIn": 83319.0,
+          "activityBudget": 111319.0,
+          "budgetRevenu": 752718.0,
+          "expenses": {
+            "Fournitures": 674.06,
+            "Aliments & boissons": 26509.75,
+            "Services spécialisés": 355.64
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 75812.15,
+            "Revenus internes / intérêts": 2059.0,
+            "Gala / événement": 150.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 14000.0,
+            "Services spécialisés": 14000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 752718.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.1707,
+          "hoardRatio": 4.859,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 65128.56,
+          "fundraised": 63996.56,
+          "internalRev": 1132.0,
+          "spent": 29618.11,
+          "balance": 169311.45,
+          "surplusIn": 133801.0,
+          "activityBudget": 158801.0,
+          "budgetRevenu": 25000.0,
+          "expenses": {
+            "Fournitures": 1961.7,
+            "Aliments & boissons": 27199.19,
+            "Services spécialisés": 457.22
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 63996.56,
+            "Revenus internes / intérêts": 1132.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 25000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 25000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.1489,
+          "hoardRatio": 5.716,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 99351.87,
+          "fundraised": 97825.87,
+          "internalRev": 1526.0,
+          "spent": 154875.84,
+          "balance": 113787.03,
+          "surplusIn": 169311.0,
+          "activityBudget": 189311.0,
+          "budgetRevenu": 20000.0,
+          "expenses": {
+            "Fournitures": 722.07,
+            "Aliments & boissons": 36369.77,
+            "Services spécialisés": 117784.0
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 97825.87,
+            "Revenus internes / intérêts": 1526.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 20000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.5765,
+          "hoardRatio": 0.735,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 108761.63,
+          "fundraised": 104100.63,
+          "internalRev": 4661.0,
+          "spent": 65894.31,
+          "balance": 156654.32,
+          "surplusIn": 113787.0,
+          "activityBudget": 133787.0,
+          "budgetRevenu": 20000.0,
+          "expenses": {
+            "Fournitures": 843.63,
+            "Aliments & boissons": 57865.51,
+            "Services spécialisés": 7185.17
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 104100.63,
+            "Revenus internes / intérêts": 4661.0
+          },
+          "expBudget": {
+            "Fournitures": 1000.0,
+            "Aliments & boissons": 500.0,
+            "Services spécialisés": 18500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.2961,
+          "hoardRatio": 2.377,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 12249.65,
+          "fundraised": 9723.65,
+          "internalRev": 2526.0,
+          "spent": 139680.72,
+          "balance": 29222.93,
+          "surplusIn": 156654.0,
+          "activityBudget": 181654.0,
+          "budgetRevenu": 25000.0,
+          "expenses": {
+            "Fournitures": 29424.26,
+            "Aliments & boissons": -19037.37,
+            "Services spécialisés": 129293.83
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 9723.65,
+            "Revenus internes / intérêts": 2526.0
+          },
+          "expBudget": {
+            "Services spécialisés": 25000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 25000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.827,
+          "hoardRatio": 0.209,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 133876.4,
+          "fundraised": 132135.4,
+          "internalRev": 1741.0,
+          "spent": 59570.54,
+          "balance": 103528.86,
+          "surplusIn": 29223.0,
+          "activityBudget": 54223.0,
+          "budgetRevenu": 25000.0,
+          "expenses": {
+            "Fournitures": 8149.8,
+            "Aliments & boissons": 46505.49,
+            "Services spécialisés": 4915.25
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 132135.4,
+            "Revenus internes / intérêts": 1741.0
+          },
+          "expBudget": {
+            "Services spécialisés": 25000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 25000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.3652,
+          "hoardRatio": 1.738,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 29844.0,
+          "fundraised": 29844.0,
+          "internalRev": 0.0,
+          "spent": 2394.4,
+          "balance": 27449.6,
+          "surplusIn": 0.0,
+          "activityBudget": 28000.0,
+          "budgetRevenu": 28000.0,
+          "expenses": {
+            "Aliments & boissons": 2394.4
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 29844.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 28000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 28000.0
+          },
+          "granularity": 1,
+          "spendThrough": 0.0802,
+          "hoardRatio": 11.464,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 100,
+        "spend": 36,
+        "rigour": 49
+      },
+      "composite": 53.4,
+      "grade": "D",
+      "rank": 14
+    },
+    {
+      "code": "037",
+      "name": "de l'Aigle",
+      "totalBudget": 704153,
+      "latest": {
+        "raised": 50688.82,
+        "fundraised": 50431.82,
+        "internalRev": 257.0,
+        "spent": 31046.43,
+        "balance": 19642.39,
+        "surplusIn": 0.0,
+        "activityBudget": 18500.0,
+        "budgetRevenu": 1138157.0,
+        "expenses": {
+          "Fournitures": 1527.07,
+          "Aliments & boissons": 22846.23,
+          "Services spécialisés": 4728.21,
+          "Transport": 1944.92
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 50431.82,
+          "Revenus internes / intérêts": 257.0
+        },
+        "expBudget": {
+          "Services spécialisés": 18500.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 1138157.0
+        },
+        "granularity": 4,
+        "spendThrough": 0.6125,
+        "hoardRatio": 0.633,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 50688.82,
+          "fundraised": 50431.82,
+          "internalRev": 257.0,
+          "spent": 31046.43,
+          "balance": 19642.39,
+          "surplusIn": 0.0,
+          "activityBudget": 18500.0,
+          "budgetRevenu": 1138157.0,
+          "expenses": {
+            "Fournitures": 1527.07,
+            "Aliments & boissons": 22846.23,
+            "Services spécialisés": 4728.21,
+            "Transport": 1944.92
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 50431.82,
+            "Revenus internes / intérêts": 257.0
+          },
+          "expBudget": {
+            "Services spécialisés": 18500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 1138157.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.6125,
+          "hoardRatio": 0.633,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 22996.5,
+          "fundraised": 22996.5,
+          "internalRev": 0.0,
+          "spent": 3997.81,
+          "balance": 18998.69,
+          "surplusIn": 0.0,
+          "activityBudget": 43500.0,
+          "budgetRevenu": 1000368.0,
+          "expenses": {
+            "Fournitures": 64.33,
+            "Aliments & boissons": 1772.09,
+            "Services spécialisés": 2161.39
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 22996.5
+          },
+          "expBudget": {
+            "Aliments & boissons": 43500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 1000368.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.1738,
+          "hoardRatio": 4.752,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 38,
+        "spend": 65,
+        "rigour": 44
+      },
+      "composite": 52.2,
       "grade": "D",
       "rank": 15
     },
     {
       "code": "015",
       "name": "du Parc-de-la-Montagne",
-      "sizeProxy": 530964,
       "totalBudget": 1087252,
       "latest": {
         "raised": 53885.15,
@@ -3178,6 +3905,12 @@
         "revenues": {
           "Ventes & levées de fonds": 52856.15,
           "Revenus internes / intérêts": 1029.0
+        },
+        "expBudget": {
+          "Services spécialisés": 18000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 18000.0
         },
         "granularity": 5,
         "spendThrough": 0.4546,
@@ -3206,6 +3939,13 @@
             "Revenus internes / intérêts": 303.0,
             "Gala / événement": 275.0
           },
+          "expBudget": {
+            "Aliments & boissons": 5350.0,
+            "Services spécialisés": 5350.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10700.0
+          },
           "granularity": 4,
           "spendThrough": 0.3675,
           "hoardRatio": 1.721,
@@ -3229,6 +3969,13 @@
           "revenues": {
             "Ventes & levées de fonds": 3959.12,
             "Revenus internes / intérêts": 138.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 5350.0,
+            "Services spécialisés": 5350.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10700.0
           },
           "granularity": 3,
           "spendThrough": 0.1214,
@@ -3256,6 +4003,12 @@
             "Ventes & levées de fonds": 20862.46,
             "Revenus internes / intérêts": 192.0
           },
+          "expBudget": {
+            "Aliments & boissons": 6700.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 6700.0
+          },
           "granularity": 5,
           "spendThrough": 0.5958,
           "hoardRatio": 0.678,
@@ -3279,6 +4032,15 @@
           "revenues": {
             "Ventes & levées de fonds": 49947.04,
             "Revenus internes / intérêts": 662.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 2200.0,
+            "Services spécialisés": 3000.0,
+            "Transport": 1000.0,
+            "Sorties éducatives": 2500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8700.0
           },
           "granularity": 3,
           "spendThrough": 0.669,
@@ -3304,6 +4066,12 @@
           "revenues": {
             "Ventes & levées de fonds": 43553.0,
             "Revenus internes / intérêts": 732.0
+          },
+          "expBudget": {
+            "Services spécialisés": 10700.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10700.0
           },
           "granularity": 4,
           "spendThrough": 0.5217,
@@ -3331,6 +4099,12 @@
             "Ventes & levées de fonds": 52856.15,
             "Revenus internes / intérêts": 1029.0
           },
+          "expBudget": {
+            "Services spécialisés": 18000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 18000.0
+          },
           "granularity": 5,
           "spendThrough": 0.4546,
           "hoardRatio": 1.2,
@@ -3352,6 +4126,12 @@
           "revenues": {
             "Ventes & levées de fonds": 13179.0
           },
+          "expBudget": {
+            "Aliments & boissons": 30645.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 30645.0
+          },
           "granularity": 1,
           "spendThrough": 0.1072,
           "hoardRatio": 8.33,
@@ -3360,18 +4140,17 @@
         }
       ],
       "scores": {
-        "fundraising": 37,
+        "fundraising": 40,
         "spend": 49,
         "rigour": 63
       },
-      "composite": 51.3,
+      "composite": 52.0,
       "grade": "D",
       "rank": 16
     },
     {
       "code": "003",
       "name": "des Rapides-Deschênes",
-      "sizeProxy": 481981,
       "totalBudget": 981271,
       "latest": {
         "raised": 29971.61,
@@ -3392,6 +4171,12 @@
         "revenues": {
           "Ventes & levées de fonds": 29115.61,
           "Revenus internes / intérêts": 856.0
+        },
+        "expBudget": {
+          "Services spécialisés": 13000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 13000.0
         },
         "granularity": 5,
         "spendThrough": 0.5065,
@@ -3419,6 +4204,13 @@
             "Revenus internes / intérêts": -31.0,
             "Gala / événement": 325.0
           },
+          "expBudget": {
+            "Aliments & boissons": 12000.0,
+            "Services spécialisés": 12000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24000.0
+          },
           "granularity": 3,
           "spendThrough": 0.0,
           "hoardRatio": 0.0,
@@ -3443,6 +4235,13 @@
             "Ventes & levées de fonds": 10739.58,
             "Revenus internes / intérêts": -35.0
           },
+          "expBudget": {
+            "Fournitures": 10000.0,
+            "Aliments & boissons": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20000.0
+          },
           "granularity": 3,
           "spendThrough": 0.0,
           "hoardRatio": 0.0,
@@ -3466,6 +4265,13 @@
           },
           "revenues": {
             "Ventes & levées de fonds": 29462.21
+          },
+          "expBudget": {
+            "Fournitures": 10000.0,
+            "Aliments & boissons": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20000.0
           },
           "granularity": 4,
           "spendThrough": 0.7793,
@@ -3492,6 +4298,13 @@
             "Ventes & levées de fonds": 52968.61,
             "Revenus internes / intérêts": 452.0
           },
+          "expBudget": {
+            "Fournitures": 5000.0,
+            "Aliments & boissons": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 35000.0
+          },
           "granularity": 4,
           "spendThrough": 0.6431,
           "hoardRatio": 0.026,
@@ -3516,6 +4329,12 @@
           "revenues": {
             "Ventes & levées de fonds": 37367.45,
             "Revenus internes / intérêts": 744.0
+          },
+          "expBudget": {
+            "Services spécialisés": 21000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 21000.0
           },
           "granularity": 4,
           "spendThrough": 0.428,
@@ -3543,6 +4362,12 @@
             "Ventes & levées de fonds": 29115.61,
             "Revenus internes / intérêts": 856.0
           },
+          "expBudget": {
+            "Services spécialisés": 13000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 13000.0
+          },
           "granularity": 5,
           "spendThrough": 0.5065,
           "hoardRatio": 0.974,
@@ -3562,6 +4387,12 @@
           "revenues": {
             "Ventes & levées de fonds": 1934.98
           },
+          "expBudget": {
+            "Services spécialisés": 9000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 9000.0
+          },
           "granularity": 0,
           "spendThrough": 0.0,
           "hoardRatio": 99.0,
@@ -3574,14 +4405,239 @@
         "spend": 55,
         "rigour": 63
       },
-      "composite": 51.0,
+      "composite": 51.1,
       "grade": "D",
       "rank": 17
     },
     {
+      "code": "019",
+      "name": "Saint-Rédempteur",
+      "totalBudget": 734718,
+      "latest": {
+        "raised": 31749.9,
+        "fundraised": 31477.9,
+        "internalRev": 272.0,
+        "spent": 21362.5,
+        "balance": 15580.4,
+        "surplusIn": 5193.0,
+        "activityBudget": 13640.0,
+        "budgetRevenu": 8447.0,
+        "expenses": {
+          "Fournitures": 6425.6,
+          "Aliments & boissons": 10428.54,
+          "Services spécialisés": 3990.1,
+          "Transport": 518.26
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 31477.9,
+          "Revenus internes / intérêts": 272.0
+        },
+        "expBudget": {
+          "Services spécialisés": 8447.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 8447.0
+        },
+        "granularity": 4,
+        "spendThrough": 0.5783,
+        "hoardRatio": 0.729,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 6428.4,
+          "fundraised": 5783.8,
+          "internalRev": 594.0,
+          "spent": 248.2,
+          "balance": 34409.2,
+          "surplusIn": 28229.0,
+          "activityBudget": 28229.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Sorties éducatives": 248.2
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 5783.8,
+            "Revenus internes / intérêts": 594.0,
+            "Gala / événement": 50.6
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 1,
+          "spendThrough": 0.0072,
+          "hoardRatio": 138.635,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 2694.59,
+          "fundraised": 2427.59,
+          "internalRev": 267.0,
+          "spent": 0.0,
+          "balance": 37103.59,
+          "surplusIn": 34409.0,
+          "activityBudget": 34409.0,
+          "budgetRevenu": 0.0,
+          "expenses": {},
+          "revenues": {
+            "Ventes & levées de fonds": 2427.59,
+            "Revenus internes / intérêts": 267.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 0,
+          "spendThrough": 0.0,
+          "hoardRatio": 99.0,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 2816.74,
+          "fundraised": 2603.74,
+          "internalRev": 213.0,
+          "spent": 37500.0,
+          "balance": 2420.74,
+          "surplusIn": 37104.0,
+          "activityBudget": 37104.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Services spécialisés": 37500.0
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 2603.74,
+            "Revenus internes / intérêts": 213.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 1,
+          "spendThrough": 0.9394,
+          "hoardRatio": 0.065,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 21648.2,
+          "fundraised": 21468.2,
+          "internalRev": 180.0,
+          "spent": 15996.09,
+          "balance": 8073.11,
+          "surplusIn": 2421.0,
+          "activityBudget": 2421.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Fournitures": 3050.01,
+            "Aliments & boissons": 12272.69,
+            "Sorties éducatives": 673.39
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 21468.2,
+            "Revenus internes / intérêts": 180.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 3,
+          "spendThrough": 0.6646,
+          "hoardRatio": 0.505,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 10319.35,
+          "fundraised": 10139.35,
+          "internalRev": 180.0,
+          "spent": 13199.18,
+          "balance": 5193.17,
+          "surplusIn": 8073.0,
+          "activityBudget": 19393.0,
+          "budgetRevenu": 11320.0,
+          "expenses": {
+            "Fournitures": 218.44,
+            "Aliments & boissons": 10524.19,
+            "Services spécialisés": 931.96,
+            "Transport": 1524.59
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 10139.35,
+            "Revenus internes / intérêts": 180.0
+          },
+          "expBudget": {
+            "Services spécialisés": 11320.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 11320.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.7176,
+          "hoardRatio": 0.393,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 31749.9,
+          "fundraised": 31477.9,
+          "internalRev": 272.0,
+          "spent": 21362.5,
+          "balance": 15580.4,
+          "surplusIn": 5193.0,
+          "activityBudget": 13640.0,
+          "budgetRevenu": 8447.0,
+          "expenses": {
+            "Fournitures": 6425.6,
+            "Aliments & boissons": 10428.54,
+            "Services spécialisés": 3990.1,
+            "Transport": 518.26
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 31477.9,
+            "Revenus internes / intérêts": 272.0
+          },
+          "expBudget": {
+            "Services spécialisés": 8447.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 8447.0
+          },
+          "granularity": 4,
+          "spendThrough": 0.5783,
+          "hoardRatio": 0.729,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 0.0,
+          "fundraised": 645.0,
+          "internalRev": 0.0,
+          "spent": 0.0,
+          "balance": 0.0,
+          "surplusIn": 0.0,
+          "activityBudget": 0.0,
+          "budgetRevenu": 0.0,
+          "expenses": {},
+          "revenues": {
+            "Ventes & levées de fonds": 645.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 0,
+          "spendThrough": 0.0,
+          "hoardRatio": 0.0,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 24,
+        "spend": 62,
+        "rigour": 51
+      },
+      "composite": 50.3,
+      "grade": "D",
+      "rank": 18
+    },
+    {
       "code": "020",
       "name": "au Cœur-des-Collines",
-      "sizeProxy": 377906,
       "totalBudget": 898885,
       "latest": {
         "raised": 39630.5,
@@ -3602,6 +4658,12 @@
         "revenues": {
           "Ventes & levées de fonds": 38327.5,
           "Revenus internes / intérêts": 1303.0
+        },
+        "expBudget": {
+          "Services spécialisés": 12995.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 12995.0
         },
         "granularity": 5,
         "spendThrough": 0.4591,
@@ -3632,6 +4694,13 @@
             "Revenus internes / intérêts": 973.0,
             "Gala / événement": 400.0
           },
+          "expBudget": {
+            "Aliments & boissons": 5000.0,
+            "Services spécialisés": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10000.0
+          },
           "granularity": 6,
           "spendThrough": 0.4671,
           "hoardRatio": 1.141,
@@ -3658,6 +4727,13 @@
             "Ventes & levées de fonds": 1957.66,
             "Revenus internes / intérêts": 314.0
           },
+          "expBudget": {
+            "Aliments & boissons": 5000.0,
+            "Services spécialisés": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10000.0
+          },
           "granularity": 5,
           "spendThrough": 0.2573,
           "hoardRatio": 2.886,
@@ -3682,6 +4758,13 @@
           "revenues": {
             "Ventes & levées de fonds": 20555.14,
             "Revenus internes / intérêts": 423.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 5000.0,
+            "Services spécialisés": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10000.0
           },
           "granularity": 4,
           "spendThrough": 0.2785,
@@ -3708,6 +4791,13 @@
             "Ventes & levées de fonds": 49437.88,
             "Revenus internes / intérêts": 1542.0
           },
+          "expBudget": {
+            "Aliments & boissons": 5000.0,
+            "Services spécialisés": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10000.0
+          },
           "granularity": 4,
           "spendThrough": 0.4849,
           "hoardRatio": 1.062,
@@ -3731,6 +4821,12 @@
           "revenues": {
             "Ventes & levées de fonds": 30923.81,
             "Revenus internes / intérêts": 1336.0
+          },
+          "expBudget": {
+            "Services spécialisés": 19500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 19500.0
           },
           "granularity": 3,
           "spendThrough": 0.3683,
@@ -3758,6 +4854,12 @@
             "Ventes & levées de fonds": 38327.5,
             "Revenus internes / intérêts": 1303.0
           },
+          "expBudget": {
+            "Services spécialisés": 12995.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 12995.0
+          },
           "granularity": 5,
           "spendThrough": 0.4591,
           "hoardRatio": 1.178,
@@ -3779,6 +4881,12 @@
           "revenues": {
             "Ventes & levées de fonds": 6380.5
           },
+          "expBudget": {
+            "Aliments & boissons": 56615.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 56615.0
+          },
           "granularity": 1,
           "spendThrough": 0.1967,
           "hoardRatio": 4.084,
@@ -3787,451 +4895,17 @@
         }
       ],
       "scores": {
-        "fundraising": 32,
+        "fundraising": 30,
         "spend": 49,
         "rigour": 59
       },
-      "composite": 49.4,
-      "grade": "D",
-      "rank": 18
-    },
-    {
-      "code": "034",
-      "name": "de la Forêt",
-      "sizeProxy": 794055,
-      "totalBudget": 1405816,
-      "latest": {
-        "raised": 133876.4,
-        "fundraised": 132135.4,
-        "internalRev": 1741.0,
-        "spent": 59570.54,
-        "balance": 103528.86,
-        "surplusIn": 29223.0,
-        "activityBudget": 54223.0,
-        "budgetRevenu": 25000.0,
-        "expenses": {
-          "Fournitures": 8149.8,
-          "Aliments & boissons": 46505.49,
-          "Services spécialisés": 4915.25
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 132135.4,
-          "Revenus internes / intérêts": 1741.0
-        },
-        "granularity": 3,
-        "spendThrough": 0.3652,
-        "hoardRatio": 1.738,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 78021.15,
-          "fundraised": 75812.15,
-          "internalRev": 2059.0,
-          "spent": 27539.45,
-          "balance": 133800.7,
-          "surplusIn": 83319.0,
-          "activityBudget": 111319.0,
-          "budgetRevenu": 752718.0,
-          "expenses": {
-            "Fournitures": 674.06,
-            "Aliments & boissons": 26509.75,
-            "Services spécialisés": 355.64
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 75812.15,
-            "Revenus internes / intérêts": 2059.0,
-            "Gala / événement": 150.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.1707,
-          "hoardRatio": 4.859,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": 65128.56,
-          "fundraised": 63996.56,
-          "internalRev": 1132.0,
-          "spent": 29618.11,
-          "balance": 169311.45,
-          "surplusIn": 133801.0,
-          "activityBudget": 158801.0,
-          "budgetRevenu": 25000.0,
-          "expenses": {
-            "Fournitures": 1961.7,
-            "Aliments & boissons": 27199.19,
-            "Services spécialisés": 457.22
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 63996.56,
-            "Revenus internes / intérêts": 1132.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.1489,
-          "hoardRatio": 5.716,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 99351.87,
-          "fundraised": 97825.87,
-          "internalRev": 1526.0,
-          "spent": 154875.84,
-          "balance": 113787.03,
-          "surplusIn": 169311.0,
-          "activityBudget": 189311.0,
-          "budgetRevenu": 20000.0,
-          "expenses": {
-            "Fournitures": 722.07,
-            "Aliments & boissons": 36369.77,
-            "Services spécialisés": 117784.0
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 97825.87,
-            "Revenus internes / intérêts": 1526.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.5765,
-          "hoardRatio": 0.735,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 108761.63,
-          "fundraised": 104100.63,
-          "internalRev": 4661.0,
-          "spent": 65894.31,
-          "balance": 156654.32,
-          "surplusIn": 113787.0,
-          "activityBudget": 133787.0,
-          "budgetRevenu": 20000.0,
-          "expenses": {
-            "Fournitures": 843.63,
-            "Aliments & boissons": 57865.51,
-            "Services spécialisés": 7185.17
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 104100.63,
-            "Revenus internes / intérêts": 4661.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.2961,
-          "hoardRatio": 2.377,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 12249.65,
-          "fundraised": 9723.65,
-          "internalRev": 2526.0,
-          "spent": 139680.72,
-          "balance": 29222.93,
-          "surplusIn": 156654.0,
-          "activityBudget": 181654.0,
-          "budgetRevenu": 25000.0,
-          "expenses": {
-            "Fournitures": 29424.26,
-            "Aliments & boissons": -19037.37,
-            "Services spécialisés": 129293.83
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 9723.65,
-            "Revenus internes / intérêts": 2526.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.827,
-          "hoardRatio": 0.209,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 133876.4,
-          "fundraised": 132135.4,
-          "internalRev": 1741.0,
-          "spent": 59570.54,
-          "balance": 103528.86,
-          "surplusIn": 29223.0,
-          "activityBudget": 54223.0,
-          "budgetRevenu": 25000.0,
-          "expenses": {
-            "Fournitures": 8149.8,
-            "Aliments & boissons": 46505.49,
-            "Services spécialisés": 4915.25
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 132135.4,
-            "Revenus internes / intérêts": 1741.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.3652,
-          "hoardRatio": 1.738,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 29844.0,
-          "fundraised": 29844.0,
-          "internalRev": 0.0,
-          "spent": 2394.4,
-          "balance": 27449.6,
-          "surplusIn": 0.0,
-          "activityBudget": 28000.0,
-          "budgetRevenu": 28000.0,
-          "expenses": {
-            "Aliments & boissons": 2394.4
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 29844.0
-          },
-          "granularity": 1,
-          "spendThrough": 0.0802,
-          "hoardRatio": 11.464,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 78,
-        "spend": 36,
-        "rigour": 49
-      },
-      "composite": 49.0,
+      "composite": 48.9,
       "grade": "D",
       "rank": 19
     },
     {
-      "code": "013",
-      "name": "Saint-Paul",
-      "sizeProxy": 294424,
-      "totalBudget": 740448,
-      "latest": {
-        "raised": 39295.47,
-        "fundraised": 37505.47,
-        "internalRev": 1790.0,
-        "spent": 52067.22,
-        "balance": 61836.25,
-        "surplusIn": 74608.0,
-        "activityBudget": 74608.0,
-        "budgetRevenu": 0.0,
-        "expenses": {
-          "Fournitures": 1844.09,
-          "Aliments & boissons": 9473.48,
-          "Services spécialisés": 7592.79,
-          "Transport": 2147.98,
-          "Sorties éducatives": 941.68,
-          "Salaires & charges": 30067.2
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 37505.47,
-          "Revenus internes / intérêts": 1790.0
-        },
-        "granularity": 6,
-        "spendThrough": 0.4571,
-        "hoardRatio": 1.188,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 38211.08,
-          "fundraised": 37291.08,
-          "internalRev": 620.0,
-          "spent": 27334.51,
-          "balance": 38174.57,
-          "surplusIn": 27298.0,
-          "activityBudget": 29798.0,
-          "budgetRevenu": 2500.0,
-          "expenses": {
-            "Fournitures": 189.9,
-            "Matériel didactique": 4880.57,
-            "Aliments & boissons": 2690.51,
-            "Services spécialisés": 6831.21,
-            "Transport": 347.38,
-            "Sorties éducatives": 1099.17,
-            "Salaires & charges": 11295.77
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 37291.08,
-            "Revenus internes / intérêts": 620.0,
-            "Gala / événement": 300.0
-          },
-          "granularity": 7,
-          "spendThrough": 0.4173,
-          "hoardRatio": 1.397,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": 24968.58,
-          "fundraised": 24607.58,
-          "internalRev": 361.0,
-          "spent": 4667.83,
-          "balance": 58475.75,
-          "surplusIn": 38175.0,
-          "activityBudget": 44575.0,
-          "budgetRevenu": 6400.0,
-          "expenses": {
-            "Fournitures": 366.77,
-            "Livres / revues": 1414.67,
-            "Matériel didactique": 196.31,
-            "Aliments & boissons": 1037.57,
-            "Services spécialisés": 1155.43,
-            "Salaires & charges": 497.08
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 24607.58,
-            "Revenus internes / intérêts": 361.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.0739,
-          "hoardRatio": 12.527,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 61922.06,
-          "fundraised": 61093.06,
-          "internalRev": 829.0,
-          "spent": 25002.69,
-          "balance": 95395.37,
-          "surplusIn": 58476.0,
-          "activityBudget": 58476.0,
-          "budgetRevenu": 0.0,
-          "expenses": {
-            "Fournitures": 484.93,
-            "Aliments & boissons": 646.94,
-            "Services spécialisés": 5198.2,
-            "Transport": 2417.7,
-            "Sorties éducatives": 5936.64,
-            "Salaires & charges": 10318.28
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 61093.06,
-            "Revenus internes / intérêts": 829.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.2077,
-          "hoardRatio": 3.815,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 20734.43,
-          "fundraised": 17770.43,
-          "internalRev": 2964.0,
-          "spent": 39519.9,
-          "balance": 76609.53,
-          "surplusIn": 95395.0,
-          "activityBudget": 95395.0,
-          "budgetRevenu": 0.0,
-          "expenses": {
-            "Fournitures": 347.64,
-            "Matériel didactique": 529.13,
-            "Aliments & boissons": 250.76,
-            "Services spécialisés": 18495.33,
-            "Transport": 3195.92,
-            "Sorties éducatives": 2970.15,
-            "Salaires & charges": 13730.97
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 17770.43,
-            "Revenus internes / intérêts": 2964.0
-          },
-          "granularity": 7,
-          "spendThrough": 0.3403,
-          "hoardRatio": 1.939,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 14635.57,
-          "fundraised": 12580.57,
-          "internalRev": 2055.0,
-          "spent": 16637.43,
-          "balance": 74608.14,
-          "surplusIn": 76610.0,
-          "activityBudget": 76610.0,
-          "budgetRevenu": 0.0,
-          "expenses": {
-            "Fournitures": 446.59,
-            "Services spécialisés": 15436.99,
-            "Salaires & charges": 753.85
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 12580.57,
-            "Revenus internes / intérêts": 2055.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.1823,
-          "hoardRatio": 4.484,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 39295.47,
-          "fundraised": 37505.47,
-          "internalRev": 1790.0,
-          "spent": 52067.22,
-          "balance": 61836.25,
-          "surplusIn": 74608.0,
-          "activityBudget": 74608.0,
-          "budgetRevenu": 0.0,
-          "expenses": {
-            "Fournitures": 1844.09,
-            "Aliments & boissons": 9473.48,
-            "Services spécialisés": 7592.79,
-            "Transport": 2147.98,
-            "Sorties éducatives": 941.68,
-            "Salaires & charges": 30067.2
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 37505.47,
-            "Revenus internes / intérêts": 1790.0
-          },
-          "granularity": 6,
-          "spendThrough": 0.4571,
-          "hoardRatio": 1.188,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 11943.0,
-          "fundraised": 11943.0,
-          "internalRev": 0.0,
-          "spent": 3089.38,
-          "balance": 8853.62,
-          "surplusIn": 0.0,
-          "activityBudget": 24090.0,
-          "budgetRevenu": 24090.0,
-          "expenses": {
-            "Fournitures": 215.0,
-            "Services spécialisés": 2874.38
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 11943.0
-          },
-          "granularity": 2,
-          "spendThrough": 0.2587,
-          "hoardRatio": 2.866,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 37,
-        "spend": 49,
-        "rigour": 51
-      },
-      "composite": 47.3,
-      "grade": "D",
-      "rank": 20
-    },
-    {
       "code": "004",
       "name": "Internationale du Mont-Bleu",
-      "sizeProxy": 656030,
       "totalBudget": 1295864,
       "latest": {
         "raised": 24954.31,
@@ -4252,6 +4926,12 @@
         "revenues": {
           "Ventes & levées de fonds": 24044.31,
           "Revenus internes / intérêts": 910.0
+        },
+        "expBudget": {
+          "Services spécialisés": 157911.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 157911.0
         },
         "granularity": 5,
         "spendThrough": 0.561,
@@ -4283,6 +4963,8 @@
             "Revenus internes / intérêts": -164.0,
             "Gala / événement": 475.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 7,
           "spendThrough": 0.0,
           "hoardRatio": 0.0,
@@ -4308,6 +4990,8 @@
             "Ventes & levées de fonds": 45617.37,
             "Revenus internes / intérêts": 87.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 4,
           "spendThrough": 0.131,
           "hoardRatio": 6.634,
@@ -4331,6 +5015,8 @@
             "Ventes & levées de fonds": 51568.46,
             "Revenus internes / intérêts": 181.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 2,
           "spendThrough": 0.9824,
           "hoardRatio": 0.018,
@@ -4356,6 +5042,8 @@
             "Ventes & levées de fonds": 55642.65,
             "Revenus internes / intérêts": 830.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 4,
           "spendThrough": 0.1941,
           "hoardRatio": 4.152,
@@ -4380,6 +5068,8 @@
             "Ventes & levées de fonds": -3014.36,
             "Revenus internes / intérêts": 1186.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 3,
           "spendThrough": 0.0948,
           "hoardRatio": 9.544,
@@ -4406,6 +5096,12 @@
             "Ventes & levées de fonds": 24044.31,
             "Revenus internes / intérêts": 910.0
           },
+          "expBudget": {
+            "Services spécialisés": 157911.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 157911.0
+          },
           "granularity": 5,
           "spendThrough": 0.561,
           "hoardRatio": 0.783,
@@ -4427,6 +5123,8 @@
           "revenues": {
             "Ventes & levées de fonds": -2641.68
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 1,
           "spendThrough": 0.0,
           "hoardRatio": -1.092,
@@ -4435,18 +5133,272 @@
         }
       ],
       "scores": {
-        "fundraising": 16,
+        "fundraising": 19,
         "spend": 60,
         "rigour": 43
       },
-      "composite": 45.4,
+      "composite": 46.0,
+      "grade": "D",
+      "rank": 20
+    },
+    {
+      "code": "013",
+      "name": "Saint-Paul",
+      "totalBudget": 740448,
+      "latest": {
+        "raised": 39295.47,
+        "fundraised": 37505.47,
+        "internalRev": 1790.0,
+        "spent": 52067.22,
+        "balance": 61836.25,
+        "surplusIn": 74608.0,
+        "activityBudget": 74608.0,
+        "budgetRevenu": 0.0,
+        "expenses": {
+          "Fournitures": 1844.09,
+          "Aliments & boissons": 9473.48,
+          "Services spécialisés": 7592.79,
+          "Transport": 2147.98,
+          "Sorties éducatives": 941.68,
+          "Salaires & charges": 30067.2
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 37505.47,
+          "Revenus internes / intérêts": 1790.0
+        },
+        "expBudget": {},
+        "revBudget": {},
+        "granularity": 6,
+        "spendThrough": 0.4571,
+        "hoardRatio": 1.188,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 38211.08,
+          "fundraised": 37291.08,
+          "internalRev": 620.0,
+          "spent": 27334.51,
+          "balance": 38174.57,
+          "surplusIn": 27298.0,
+          "activityBudget": 29798.0,
+          "budgetRevenu": 2500.0,
+          "expenses": {
+            "Fournitures": 189.9,
+            "Matériel didactique": 4880.57,
+            "Aliments & boissons": 2690.51,
+            "Services spécialisés": 6831.21,
+            "Transport": 347.38,
+            "Sorties éducatives": 1099.17,
+            "Salaires & charges": 11295.77
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 37291.08,
+            "Revenus internes / intérêts": 620.0,
+            "Gala / événement": 300.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 1250.0,
+            "Services spécialisés": 1250.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 2500.0
+          },
+          "granularity": 7,
+          "spendThrough": 0.4173,
+          "hoardRatio": 1.397,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 24968.58,
+          "fundraised": 24607.58,
+          "internalRev": 361.0,
+          "spent": 4667.83,
+          "balance": 58475.75,
+          "surplusIn": 38175.0,
+          "activityBudget": 44575.0,
+          "budgetRevenu": 6400.0,
+          "expenses": {
+            "Fournitures": 366.77,
+            "Livres / revues": 1414.67,
+            "Matériel didactique": 196.31,
+            "Aliments & boissons": 1037.57,
+            "Services spécialisés": 1155.43,
+            "Salaires & charges": 497.08
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 24607.58,
+            "Revenus internes / intérêts": 361.0
+          },
+          "expBudget": {
+            "Services spécialisés": 6400.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 6400.0
+          },
+          "granularity": 6,
+          "spendThrough": 0.0739,
+          "hoardRatio": 12.527,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 61922.06,
+          "fundraised": 61093.06,
+          "internalRev": 829.0,
+          "spent": 25002.69,
+          "balance": 95395.37,
+          "surplusIn": 58476.0,
+          "activityBudget": 58476.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Fournitures": 484.93,
+            "Aliments & boissons": 646.94,
+            "Services spécialisés": 5198.2,
+            "Transport": 2417.7,
+            "Sorties éducatives": 5936.64,
+            "Salaires & charges": 10318.28
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 61093.06,
+            "Revenus internes / intérêts": 829.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 6,
+          "spendThrough": 0.2077,
+          "hoardRatio": 3.815,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 20734.43,
+          "fundraised": 17770.43,
+          "internalRev": 2964.0,
+          "spent": 39519.9,
+          "balance": 76609.53,
+          "surplusIn": 95395.0,
+          "activityBudget": 95395.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Fournitures": 347.64,
+            "Matériel didactique": 529.13,
+            "Aliments & boissons": 250.76,
+            "Services spécialisés": 18495.33,
+            "Transport": 3195.92,
+            "Sorties éducatives": 2970.15,
+            "Salaires & charges": 13730.97
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 17770.43,
+            "Revenus internes / intérêts": 2964.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 7,
+          "spendThrough": 0.3403,
+          "hoardRatio": 1.939,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 14635.57,
+          "fundraised": 12580.57,
+          "internalRev": 2055.0,
+          "spent": 16637.43,
+          "balance": 74608.14,
+          "surplusIn": 76610.0,
+          "activityBudget": 76610.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Fournitures": 446.59,
+            "Services spécialisés": 15436.99,
+            "Salaires & charges": 753.85
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 12580.57,
+            "Revenus internes / intérêts": 2055.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 3,
+          "spendThrough": 0.1823,
+          "hoardRatio": 4.484,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 39295.47,
+          "fundraised": 37505.47,
+          "internalRev": 1790.0,
+          "spent": 52067.22,
+          "balance": 61836.25,
+          "surplusIn": 74608.0,
+          "activityBudget": 74608.0,
+          "budgetRevenu": 0.0,
+          "expenses": {
+            "Fournitures": 1844.09,
+            "Aliments & boissons": 9473.48,
+            "Services spécialisés": 7592.79,
+            "Transport": 2147.98,
+            "Sorties éducatives": 941.68,
+            "Salaires & charges": 30067.2
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 37505.47,
+            "Revenus internes / intérêts": 1790.0
+          },
+          "expBudget": {},
+          "revBudget": {},
+          "granularity": 6,
+          "spendThrough": 0.4571,
+          "hoardRatio": 1.188,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 11943.0,
+          "fundraised": 11943.0,
+          "internalRev": 0.0,
+          "spent": 3089.38,
+          "balance": 8853.62,
+          "surplusIn": 0.0,
+          "activityBudget": 24090.0,
+          "budgetRevenu": 24090.0,
+          "expenses": {
+            "Fournitures": 215.0,
+            "Services spécialisés": 2874.38
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 11943.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 24090.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24090.0
+          },
+          "granularity": 2,
+          "spendThrough": 0.2587,
+          "hoardRatio": 2.866,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 29,
+        "spend": 49,
+        "rigour": 51
+      },
+      "composite": 45.8,
       "grade": "D",
       "rank": 21
     },
     {
       "code": "027",
       "name": "de la Vallée-des-Voyageurs",
-      "sizeProxy": 393922,
       "totalBudget": 941137,
       "latest": {
         "raised": 83727.86,
@@ -4469,6 +5421,12 @@
         "revenues": {
           "Ventes & levées de fonds": 80273.86,
           "Revenus internes / intérêts": 3454.0
+        },
+        "expBudget": {
+          "Services spécialisés": 38000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 38000.0
         },
         "granularity": 7,
         "spendThrough": 0.2717,
@@ -4497,6 +5455,13 @@
             "Ventes & levées de fonds": 51537.45,
             "Revenus internes / intérêts": 1695.0
           },
+          "expBudget": {
+            "Aliments & boissons": 16000.0,
+            "Services spécialisés": 16000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 32000.0
+          },
           "granularity": 5,
           "spendThrough": 0.1914,
           "hoardRatio": 4.225,
@@ -4522,6 +5487,13 @@
           "revenues": {
             "Ventes & levées de fonds": 59255.19,
             "Revenus internes / intérêts": 924.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 16250.0,
+            "Services spécialisés": 15000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 31250.0
           },
           "granularity": 5,
           "spendThrough": 0.1238,
@@ -4550,6 +5522,13 @@
             "Ventes & levées de fonds": 67739.84,
             "Revenus internes / intérêts": 1592.0
           },
+          "expBudget": {
+            "Aliments & boissons": 13400.0,
+            "Services spécialisés": 20000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 33400.0
+          },
           "granularity": 6,
           "spendThrough": 0.2871,
           "hoardRatio": 2.483,
@@ -4576,6 +5555,15 @@
             "Ventes & levées de fonds": 76646.38,
             "Revenus internes / intérêts": 4891.0
           },
+          "expBudget": {
+            "Fournitures": 13950.0,
+            "Aliments & boissons": 13950.0,
+            "Transport": 2500.0,
+            "Sorties éducatives": 3000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 33400.0
+          },
           "granularity": 5,
           "spendThrough": 0.4346,
           "hoardRatio": 1.301,
@@ -4601,6 +5589,12 @@
           "revenues": {
             "Ventes & levées de fonds": 51917.95,
             "Revenus internes / intérêts": 3384.0
+          },
+          "expBudget": {
+            "Services spécialisés": 32000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 32000.0
           },
           "granularity": 5,
           "spendThrough": 0.3749,
@@ -4630,6 +5624,12 @@
             "Ventes & levées de fonds": 80273.86,
             "Revenus internes / intérêts": 3454.0
           },
+          "expBudget": {
+            "Services spécialisés": 38000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 38000.0
+          },
           "granularity": 7,
           "spendThrough": 0.2717,
           "hoardRatio": 2.681,
@@ -4652,6 +5652,12 @@
           "revenues": {
             "Ventes & levées de fonds": 21289.0
           },
+          "expBudget": {
+            "Services spécialisés": 42000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 42000.0
+          },
           "granularity": 2,
           "spendThrough": 0.0627,
           "hoardRatio": -28.078,
@@ -4660,18 +5666,17 @@
         }
       ],
       "scores": {
-        "fundraising": 67,
+        "fundraising": 63,
         "spend": 17,
         "rigour": 68
       },
-      "composite": 44.7,
+      "composite": 43.8,
       "grade": "D",
       "rank": 22
     },
     {
       "code": "014",
       "name": "des Trois-Portages",
-      "sizeProxy": 458776,
       "totalBudget": 902026,
       "latest": {
         "raised": 49269.37,
@@ -4690,6 +5695,12 @@
           "Ventes & levées de fonds": 47685.47,
           "Revenus internes / intérêts": 1194.0,
           "Gala / événement": 389.9
+        },
+        "expBudget": {
+          "Services spécialisés": 46000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 46000.0
         },
         "granularity": 2,
         "spendThrough": 0.3632,
@@ -4720,6 +5731,13 @@
             "Revenus internes / intérêts": 841.0,
             "Gala / événement": 175.0
           },
+          "expBudget": {
+            "Aliments & boissons": 13750.0,
+            "Services spécialisés": 13750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 27500.0
+          },
           "granularity": 6,
           "spendThrough": 0.2291,
           "hoardRatio": 3.365,
@@ -4743,6 +5761,13 @@
           "revenues": {
             "Ventes & levées de fonds": 19967.6,
             "Revenus internes / intérêts": 263.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 12000.0,
+            "Services spécialisés": 12000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24000.0
           },
           "granularity": 3,
           "spendThrough": 0.7237,
@@ -4769,6 +5794,13 @@
             "Ventes & levées de fonds": 32378.83,
             "Revenus internes / intérêts": 264.0
           },
+          "expBudget": {
+            "Aliments & boissons": 12000.0,
+            "Services spécialisés": 12000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24000.0
+          },
           "granularity": 4,
           "spendThrough": 0.4372,
           "hoardRatio": 1.287,
@@ -4793,6 +5825,14 @@
           "revenues": {
             "Ventes & levées de fonds": 50191.22,
             "Revenus internes / intérêts": 1195.0
+          },
+          "expBudget": {
+            "Fournitures": 4500.0,
+            "Aliments & boissons": 15000.0,
+            "Services spécialisés": 4500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 24000.0
           },
           "granularity": 4,
           "spendThrough": 0.5061,
@@ -4819,6 +5859,12 @@
             "Ventes & levées de fonds": 44515.0,
             "Revenus internes / intérêts": 1037.0
           },
+          "expBudget": {
+            "Services spécialisés": 46000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 46000.0
+          },
           "granularity": 4,
           "spendThrough": 0.5737,
           "hoardRatio": 0.743,
@@ -4843,6 +5889,12 @@
             "Revenus internes / intérêts": 1194.0,
             "Gala / événement": 389.9
           },
+          "expBudget": {
+            "Services spécialisés": 46000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 46000.0
+          },
           "granularity": 2,
           "spendThrough": 0.3632,
           "hoardRatio": 1.754,
@@ -4864,6 +5916,12 @@
           "revenues": {
             "Ventes & levées de fonds": 816.0
           },
+          "expBudget": {
+            "Aliments & boissons": 45000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 45000.0
+          },
           "granularity": 1,
           "spendThrough": -18.1875,
           "hoardRatio": 99.0,
@@ -4872,18 +5930,17 @@
         }
       ],
       "scores": {
-        "fundraising": 36,
+        "fundraising": 37,
         "spend": 36,
         "rigour": 47
       },
-      "composite": 40.0,
+      "composite": 40.1,
       "grade": "D",
       "rank": 23
     },
     {
       "code": "007",
       "name": "du Lac-des-Fées",
-      "sizeProxy": 560000,
       "totalBudget": 1029578,
       "latest": {
         "raised": 22487.47,
@@ -4903,6 +5960,12 @@
         "revenues": {
           "Ventes & levées de fonds": 20752.47,
           "Revenus internes / intérêts": 1735.0
+        },
+        "expBudget": {
+          "Services spécialisés": 12000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 12000.0
         },
         "granularity": 4,
         "spendThrough": 0.3425,
@@ -4930,6 +5993,13 @@
             "Ventes & levées de fonds": 32475.0,
             "Revenus internes / intérêts": 1702.0
           },
+          "expBudget": {
+            "Aliments & boissons": 7750.0,
+            "Services spécialisés": 7750.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 15500.0
+          },
           "granularity": 4,
           "spendThrough": 0.2005,
           "hoardRatio": 3.988,
@@ -4954,6 +6024,12 @@
             "Ventes & levées de fonds": 5590.0,
             "Revenus internes / intérêts": 639.0
           },
+          "expBudget": {
+            "Aliments & boissons": 10431.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 10431.0
+          },
           "granularity": 3,
           "spendThrough": 0.2466,
           "hoardRatio": 3.056,
@@ -4975,6 +6051,12 @@
           "revenues": {
             "Ventes & levées de fonds": 6419.3,
             "Revenus internes / intérêts": 831.0
+          },
+          "expBudget": {
+            "Fournitures": 6000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 6000.0
           },
           "granularity": 1,
           "spendThrough": 0.065,
@@ -5001,6 +6083,13 @@
             "Revenus internes / intérêts": 2614.0,
             "Gala / événement": -1638.29
           },
+          "expBudget": {
+            "Fournitures": 6000.0,
+            "Services spécialisés": 10000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 16000.0
+          },
           "granularity": 3,
           "spendThrough": 0.2869,
           "hoardRatio": 2.486,
@@ -5024,6 +6113,12 @@
           "revenues": {
             "Ventes & levées de fonds": 69305.55,
             "Revenus internes / intérêts": 1963.0
+          },
+          "expBudget": {
+            "Services spécialisés": 12000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 12000.0
           },
           "granularity": 3,
           "spendThrough": 0.5109,
@@ -5050,6 +6145,12 @@
             "Ventes & levées de fonds": 20752.47,
             "Revenus internes / intérêts": 1735.0
           },
+          "expBudget": {
+            "Services spécialisés": 12000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 12000.0
+          },
           "granularity": 4,
           "spendThrough": 0.3425,
           "hoardRatio": 1.919,
@@ -5072,6 +6173,12 @@
           "revenues": {
             "Ventes & levées de fonds": 6103.0
           },
+          "expBudget": {
+            "Fournitures": 18000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 18000.0
+          },
           "granularity": 2,
           "spendThrough": 0.1587,
           "hoardRatio": -72.351,
@@ -5080,18 +6187,17 @@
         }
       ],
       "scores": {
-        "fundraising": 15,
+        "fundraising": 17,
         "spend": 32,
         "rigour": 51
       },
-      "composite": 35.4,
+      "composite": 35.7,
       "grade": "F",
       "rank": 24
     },
     {
       "code": "036",
       "name": "du Grand-Héron",
-      "sizeProxy": 710230,
       "totalBudget": 1263754,
       "latest": {
         "raised": 70652.26,
@@ -5111,6 +6217,12 @@
         "revenues": {
           "Ventes & levées de fonds": 69372.26,
           "Revenus internes / intérêts": 1280.0
+        },
+        "expBudget": {
+          "Services spécialisés": 6000.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 6000.0
         },
         "granularity": 4,
         "spendThrough": 0.2432,
@@ -5137,6 +6249,12 @@
             "Ventes & levées de fonds": 5150.64,
             "Revenus internes / intérêts": -1.0
           },
+          "expBudget": {
+            "Aliments & boissons": 5000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 639599.0
+          },
           "granularity": 3,
           "spendThrough": 1.0391,
           "hoardRatio": -0.038,
@@ -5162,6 +6280,12 @@
             "Ventes & levées de fonds": 34469.33,
             "Revenus internes / intérêts": 279.0
           },
+          "expBudget": {
+            "Services spécialisés": 6000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 666590.0
+          },
           "granularity": 4,
           "spendThrough": 0.5246,
           "hoardRatio": 0.906,
@@ -5185,6 +6309,12 @@
           "revenues": {
             "Ventes & levées de fonds": 37136.0,
             "Revenus internes / intérêts": 564.0
+          },
+          "expBudget": {
+            "Services spécialisés": 6000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 996977.0
           },
           "granularity": 3,
           "spendThrough": 0.5357,
@@ -5211,6 +6341,12 @@
             "Ventes & levées de fonds": 69372.26,
             "Revenus internes / intérêts": 1280.0
           },
+          "expBudget": {
+            "Services spécialisés": 6000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 6000.0
+          },
           "granularity": 4,
           "spendThrough": 0.2432,
           "hoardRatio": 3.112,
@@ -5235,6 +6371,12 @@
           "revenues": {
             "Ventes & levées de fonds": 6848.0
           },
+          "expBudget": {
+            "Aliments & boissons": 7000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 7000.0
+          },
           "granularity": 4,
           "spendThrough": 0.4224,
           "hoardRatio": 1.268,
@@ -5243,18 +6385,271 @@
         }
       ],
       "scores": {
-        "fundraising": 43,
+        "fundraising": 53,
         "spend": 10,
         "rigour": 49
       },
-      "composite": 30.2,
+      "composite": 32.2,
       "grade": "F",
       "rank": 25
     },
     {
+      "code": "032",
+      "name": "de l'Amérique-Française",
+      "totalBudget": 1386711,
+      "latest": {
+        "raised": 71434.03,
+        "fundraised": 68572.03,
+        "internalRev": 2862.0,
+        "spent": 41545.22,
+        "balance": 124032.81,
+        "surplusIn": 94144.0,
+        "activityBudget": 122744.0,
+        "budgetRevenu": 28600.0,
+        "expenses": {
+          "Fournitures": 4636.93,
+          "Aliments & boissons": 30545.26,
+          "Services spécialisés": 6363.03
+        },
+        "revenues": {
+          "Ventes & levées de fonds": 68572.03,
+          "Revenus internes / intérêts": 2862.0
+        },
+        "expBudget": {
+          "Services spécialisés": 28600.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 28600.0
+        },
+        "granularity": 3,
+        "spendThrough": 0.2509,
+        "hoardRatio": 2.985,
+        "year": "24-25",
+        "provisional": false
+      },
+      "history": [
+        {
+          "raised": 34925.62,
+          "fundraised": 33312.62,
+          "internalRev": 1488.0,
+          "spent": 28243.1,
+          "balance": 81842.52,
+          "surplusIn": 75160.0,
+          "activityBudget": 125160.0,
+          "budgetRevenu": 50000.0,
+          "expenses": {
+            "Fournitures": 62.0,
+            "Aliments & boissons": 26232.07,
+            "Services spécialisés": 1949.03
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 33312.62,
+            "Revenus internes / intérêts": 1488.0,
+            "Gala / événement": 125.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 25000.0,
+            "Services spécialisés": 25000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 50000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.2566,
+          "hoardRatio": 2.898,
+          "year": "19-20",
+          "provisional": false
+        },
+        {
+          "raised": 967.0,
+          "fundraised": 360.0,
+          "internalRev": 607.0,
+          "spent": 1937.15,
+          "balance": 80872.85,
+          "surplusIn": 81843.0,
+          "activityBudget": 146843.0,
+          "budgetRevenu": 65000.0,
+          "expenses": {
+            "Fournitures": 1905.04,
+            "Aliments & boissons": 32.11
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 360.0,
+            "Revenus internes / intérêts": 607.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 35000.0,
+            "Services spécialisés": 30000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 65000.0
+          },
+          "granularity": 2,
+          "spendThrough": 0.0234,
+          "hoardRatio": 41.748,
+          "year": "20-21",
+          "provisional": false
+        },
+        {
+          "raised": 32676.85,
+          "fundraised": 31813.85,
+          "internalRev": 863.0,
+          "spent": 34295.37,
+          "balance": 79254.48,
+          "surplusIn": 80873.0,
+          "activityBudget": 125873.0,
+          "budgetRevenu": 45000.0,
+          "expenses": {
+            "Fournitures": 6307.35,
+            "Aliments & boissons": 24888.3,
+            "Services spécialisés": 3099.72
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 31813.85,
+            "Revenus internes / intérêts": 863.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 20000.0,
+            "Services spécialisés": 25000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 45000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.302,
+          "hoardRatio": 2.311,
+          "year": "21-22",
+          "provisional": false
+        },
+        {
+          "raised": 54716.93,
+          "fundraised": 52030.93,
+          "internalRev": 2686.0,
+          "spent": 57356.85,
+          "balance": 76614.08,
+          "surplusIn": 79254.0,
+          "activityBudget": 114254.0,
+          "budgetRevenu": 35000.0,
+          "expenses": {
+            "Fournitures": 15893.58,
+            "Aliments & boissons": 32541.58,
+            "Services spécialisés": 8921.69
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 52030.93,
+            "Revenus internes / intérêts": 2686.0
+          },
+          "expBudget": {
+            "Services spécialisés": 35000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 35000.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.4281,
+          "hoardRatio": 1.336,
+          "year": "22-23",
+          "provisional": false
+        },
+        {
+          "raised": 46429.65,
+          "fundraised": 44108.65,
+          "internalRev": 2321.0,
+          "spent": 28899.68,
+          "balance": 94143.97,
+          "surplusIn": 76614.0,
+          "activityBudget": 128413.0,
+          "budgetRevenu": 51799.0,
+          "expenses": {
+            "Aliments & boissons": 22893.65,
+            "Services spécialisés": 6006.03
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 44108.65,
+            "Revenus internes / intérêts": 2321.0
+          },
+          "expBudget": {
+            "Services spécialisés": 51799.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 51799.0
+          },
+          "granularity": 2,
+          "spendThrough": 0.2349,
+          "hoardRatio": 3.258,
+          "year": "23-24",
+          "provisional": false
+        },
+        {
+          "raised": 71434.03,
+          "fundraised": 68572.03,
+          "internalRev": 2862.0,
+          "spent": 41545.22,
+          "balance": 124032.81,
+          "surplusIn": 94144.0,
+          "activityBudget": 122744.0,
+          "budgetRevenu": 28600.0,
+          "expenses": {
+            "Fournitures": 4636.93,
+            "Aliments & boissons": 30545.26,
+            "Services spécialisés": 6363.03
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 68572.03,
+            "Revenus internes / intérêts": 2862.0
+          },
+          "expBudget": {
+            "Services spécialisés": 28600.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 28600.0
+          },
+          "granularity": 3,
+          "spendThrough": 0.2509,
+          "hoardRatio": 2.985,
+          "year": "24-25",
+          "provisional": false
+        },
+        {
+          "raised": 4932.0,
+          "fundraised": 4932.0,
+          "internalRev": 0.0,
+          "spent": 4254.08,
+          "balance": -208147.97,
+          "surplusIn": 0.0,
+          "activityBudget": 20500.0,
+          "budgetRevenu": 20500.0,
+          "expenses": {
+            "Fournitures": 4254.08
+          },
+          "revenues": {
+            "Ventes & levées de fonds": 4932.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 20500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 20500.0
+          },
+          "granularity": 1,
+          "spendThrough": 0.8625,
+          "hoardRatio": -48.929,
+          "year": "25-26",
+          "provisional": true
+        }
+      ],
+      "scores": {
+        "fundraising": 53,
+        "spend": 11,
+        "rigour": 40
+      },
+      "composite": 29.4,
+      "grade": "F",
+      "rank": 26
+    },
+    {
       "code": "035",
       "name": "de la Petite-Ourse",
-      "sizeProxy": 436110,
       "totalBudget": 846848,
       "latest": {
         "raised": 38601.43,
@@ -5275,6 +6670,12 @@
         "revenues": {
           "Ventes & levées de fonds": 35471.43,
           "Revenus internes / intérêts": 3130.0
+        },
+        "expBudget": {
+          "Services spécialisés": 19725.0
+        },
+        "revBudget": {
+          "Ventes & levées de fonds": 19725.0
         },
         "granularity": 5,
         "spendThrough": 0.2173,
@@ -5303,6 +6704,8 @@
             "Ventes & levées de fonds": 52591.61,
             "Revenus internes / intérêts": 525.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 5,
           "spendThrough": 0.3135,
           "hoardRatio": 2.19,
@@ -5328,6 +6731,16 @@
             "Ventes & levées de fonds": 73805.53,
             "Revenus internes / intérêts": 2601.0
           },
+          "expBudget": {
+            "Fournitures": 4000.0,
+            "Aliments & boissons": 8000.0,
+            "Services spécialisés": 9500.0,
+            "Transport": 1500.0,
+            "Sorties éducatives": 770.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 23770.0
+          },
           "granularity": 4,
           "spendThrough": 0.3496,
           "hoardRatio": 1.86,
@@ -5351,6 +6764,12 @@
           "revenues": {
             "Ventes & levées de fonds": 48556.58,
             "Revenus internes / intérêts": 2806.0
+          },
+          "expBudget": {
+            "Services spécialisés": 29000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 29000.0
           },
           "granularity": 3,
           "spendThrough": 0.1706,
@@ -5378,6 +6797,12 @@
             "Ventes & levées de fonds": 35471.43,
             "Revenus internes / intérêts": 3130.0
           },
+          "expBudget": {
+            "Services spécialisés": 19725.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 19725.0
+          },
           "granularity": 5,
           "spendThrough": 0.2173,
           "hoardRatio": 3.602,
@@ -5399,6 +6824,12 @@
           "revenues": {
             "Ventes & levées de fonds": 23016.0
           },
+          "expBudget": {
+            "Services spécialisés": 44000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 44000.0
+          },
           "granularity": 1,
           "spendThrough": 0.0003,
           "hoardRatio": 3919.954,
@@ -5411,218 +6842,13 @@
         "spend": 9,
         "rigour": 54
       },
-      "composite": 28.7,
-      "grade": "F",
-      "rank": 26
-    },
-    {
-      "code": "032",
-      "name": "de l'Amérique-Française",
-      "sizeProxy": 798644,
-      "totalBudget": 1386711,
-      "latest": {
-        "raised": 71434.03,
-        "fundraised": 68572.03,
-        "internalRev": 2862.0,
-        "spent": 41545.22,
-        "balance": 124032.81,
-        "surplusIn": 94144.0,
-        "activityBudget": 122744.0,
-        "budgetRevenu": 28600.0,
-        "expenses": {
-          "Fournitures": 4636.93,
-          "Aliments & boissons": 30545.26,
-          "Services spécialisés": 6363.03
-        },
-        "revenues": {
-          "Ventes & levées de fonds": 68572.03,
-          "Revenus internes / intérêts": 2862.0
-        },
-        "granularity": 3,
-        "spendThrough": 0.2509,
-        "hoardRatio": 2.985,
-        "year": "24-25",
-        "provisional": false
-      },
-      "history": [
-        {
-          "raised": 34925.62,
-          "fundraised": 33312.62,
-          "internalRev": 1488.0,
-          "spent": 28243.1,
-          "balance": 81842.52,
-          "surplusIn": 75160.0,
-          "activityBudget": 125160.0,
-          "budgetRevenu": 50000.0,
-          "expenses": {
-            "Fournitures": 62.0,
-            "Aliments & boissons": 26232.07,
-            "Services spécialisés": 1949.03
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 33312.62,
-            "Revenus internes / intérêts": 1488.0,
-            "Gala / événement": 125.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.2566,
-          "hoardRatio": 2.898,
-          "year": "19-20",
-          "provisional": false
-        },
-        {
-          "raised": 967.0,
-          "fundraised": 360.0,
-          "internalRev": 607.0,
-          "spent": 1937.15,
-          "balance": 80872.85,
-          "surplusIn": 81843.0,
-          "activityBudget": 146843.0,
-          "budgetRevenu": 65000.0,
-          "expenses": {
-            "Fournitures": 1905.04,
-            "Aliments & boissons": 32.11
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 360.0,
-            "Revenus internes / intérêts": 607.0
-          },
-          "granularity": 2,
-          "spendThrough": 0.0234,
-          "hoardRatio": 41.748,
-          "year": "20-21",
-          "provisional": false
-        },
-        {
-          "raised": 32676.85,
-          "fundraised": 31813.85,
-          "internalRev": 863.0,
-          "spent": 34295.37,
-          "balance": 79254.48,
-          "surplusIn": 80873.0,
-          "activityBudget": 125873.0,
-          "budgetRevenu": 45000.0,
-          "expenses": {
-            "Fournitures": 6307.35,
-            "Aliments & boissons": 24888.3,
-            "Services spécialisés": 3099.72
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 31813.85,
-            "Revenus internes / intérêts": 863.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.302,
-          "hoardRatio": 2.311,
-          "year": "21-22",
-          "provisional": false
-        },
-        {
-          "raised": 54716.93,
-          "fundraised": 52030.93,
-          "internalRev": 2686.0,
-          "spent": 57356.85,
-          "balance": 76614.08,
-          "surplusIn": 79254.0,
-          "activityBudget": 114254.0,
-          "budgetRevenu": 35000.0,
-          "expenses": {
-            "Fournitures": 15893.58,
-            "Aliments & boissons": 32541.58,
-            "Services spécialisés": 8921.69
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 52030.93,
-            "Revenus internes / intérêts": 2686.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.4281,
-          "hoardRatio": 1.336,
-          "year": "22-23",
-          "provisional": false
-        },
-        {
-          "raised": 46429.65,
-          "fundraised": 44108.65,
-          "internalRev": 2321.0,
-          "spent": 28899.68,
-          "balance": 94143.97,
-          "surplusIn": 76614.0,
-          "activityBudget": 128413.0,
-          "budgetRevenu": 51799.0,
-          "expenses": {
-            "Aliments & boissons": 22893.65,
-            "Services spécialisés": 6006.03
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 44108.65,
-            "Revenus internes / intérêts": 2321.0
-          },
-          "granularity": 2,
-          "spendThrough": 0.2349,
-          "hoardRatio": 3.258,
-          "year": "23-24",
-          "provisional": false
-        },
-        {
-          "raised": 71434.03,
-          "fundraised": 68572.03,
-          "internalRev": 2862.0,
-          "spent": 41545.22,
-          "balance": 124032.81,
-          "surplusIn": 94144.0,
-          "activityBudget": 122744.0,
-          "budgetRevenu": 28600.0,
-          "expenses": {
-            "Fournitures": 4636.93,
-            "Aliments & boissons": 30545.26,
-            "Services spécialisés": 6363.03
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 68572.03,
-            "Revenus internes / intérêts": 2862.0
-          },
-          "granularity": 3,
-          "spendThrough": 0.2509,
-          "hoardRatio": 2.985,
-          "year": "24-25",
-          "provisional": false
-        },
-        {
-          "raised": 4932.0,
-          "fundraised": 4932.0,
-          "internalRev": 0.0,
-          "spent": 4254.08,
-          "balance": -208147.97,
-          "surplusIn": 0.0,
-          "activityBudget": 20500.0,
-          "budgetRevenu": 20500.0,
-          "expenses": {
-            "Fournitures": 4254.08
-          },
-          "revenues": {
-            "Ventes & levées de fonds": 4932.0
-          },
-          "granularity": 1,
-          "spendThrough": 0.8625,
-          "hoardRatio": -48.929,
-          "year": "25-26",
-          "provisional": true
-        }
-      ],
-      "scores": {
-        "fundraising": 42,
-        "spend": 11,
-        "rigour": 40
-      },
-      "composite": 27.1,
+      "composite": 28.6,
       "grade": "F",
       "rank": 27
     },
     {
       "code": "017",
       "name": "Notre-Dame",
-      "sizeProxy": 190498,
       "totalBudget": 615388,
       "latest": {
         "raised": 1364.0,
@@ -5642,6 +6868,8 @@
           "Ventes & levées de fonds": 681.0,
           "Revenus internes / intérêts": 683.0
         },
+        "expBudget": {},
+        "revBudget": {},
         "granularity": 3,
         "spendThrough": 0.0552,
         "hoardRatio": 17.104,
@@ -5667,6 +6895,13 @@
             "Revenus internes / intérêts": 216.0,
             "Gala / événement": 150.0
           },
+          "expBudget": {
+            "Aliments & boissons": 1500.0,
+            "Services spécialisés": 1500.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 3000.0
+          },
           "granularity": 2,
           "spendThrough": 0.194,
           "hoardRatio": 4.156,
@@ -5689,6 +6924,8 @@
             "Ventes & levées de fonds": 6294.66,
             "Revenus internes / intérêts": 110.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 1,
           "spendThrough": 0.055,
           "hoardRatio": 17.186,
@@ -5711,6 +6948,12 @@
           "revenues": {
             "Ventes & levées de fonds": 8546.21,
             "Revenus internes / intérêts": 218.0
+          },
+          "expBudget": {
+            "Aliments & boissons": 3000.0
+          },
+          "revBudget": {
+            "Ventes & levées de fonds": 3000.0
           },
           "granularity": 2,
           "spendThrough": 0.1272,
@@ -5736,6 +6979,8 @@
             "Ventes & levées de fonds": 7436.33,
             "Revenus internes / intérêts": 834.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 3,
           "spendThrough": 0.1836,
           "hoardRatio": 4.446,
@@ -5759,6 +7004,8 @@
             "Ventes & levées de fonds": 273.0,
             "Revenus internes / intérêts": 701.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 2,
           "spendThrough": 0.0118,
           "hoardRatio": 83.916,
@@ -5783,6 +7030,8 @@
             "Ventes & levées de fonds": 681.0,
             "Revenus internes / intérêts": 683.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 3,
           "spendThrough": 0.0552,
           "hoardRatio": 17.104,
@@ -5802,6 +7051,8 @@
           "revenues": {
             "Ventes & levées de fonds": 250.0
           },
+          "expBudget": {},
+          "revBudget": {},
           "granularity": 0,
           "spendThrough": 0.0,
           "hoardRatio": 0.0,
@@ -5810,11 +7061,11 @@
         }
       ],
       "scores": {
-        "fundraising": 2,
+        "fundraising": 1,
         "spend": 2,
         "rigour": 15
       },
-      "composite": 6.6,
+      "composite": 6.4,
       "grade": "F",
       "rank": 28
     }
