@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #f3ede0;
+  --paper-2: #ece3d2;
+  --ink: #211d17;
+  --ink-soft: #5a5347;
+  --rule: #cfc4ad;
+  --pen: #b5281b;        /* red-pen correction */
+  --ledger: #3f6f4e;     /* ledger green */
+  --gold: #9a6b1f;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Newsreader", Georgia, serif;
+  --font-mono: "Spline Sans Mono", ui-monospace, monospace;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* paper grain overlay */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0.06;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+h1, h2, h3, .display {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+  letter-spacing: -0.01em;
+}
+
+.mono { font-family: var(--font-mono); }
+.tabular { font-variant-numeric: tabular-nums; font-feature-settings: "tnum"; }
+
+/* editorial eyebrow label */
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--pen);
+}
+
+/* hairline-ruled card, like a filed document */
+.doc {
+  background: #fbf8f1;
+  border: 1px solid var(--rule);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03), 0 14px 28px -24px rgba(33, 29, 23, 0.5);
+}
+
+.rule { border-color: var(--rule); }
+
+/* red-pen underline on emphasis */
+.penmark {
+  background-image: linear-gradient(transparent 60%, rgba(181, 40, 27, 0.28) 0);
+  padding: 0 0.05em;
+}
+
+/* stamped grade */
+.stamp {
+  font-family: var(--font-display);
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid currentColor;
+  border-radius: 8px;
+  box-shadow: inset 0 0 0 2px #fbf8f1, inset 0 0 0 3px currentColor;
+}
+
+@keyframes riseIn {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.rise { animation: riseIn 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .rise { animation: none; }
+}
