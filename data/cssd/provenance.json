@@ -1,0 +1,11 @@
+{
+ "importedOn": "2026-08-30",
+ "upstream": "csspo-atip",
+ "upstreamCommit": "27129703e9c44c7007cb9eec2393a72993ff7909",
+ "upstreamDirty": true,
+ "files": {
+  "cssd_fds_raw.json": "fd7515c8656c70f51730a5210691c9ca34a7838538606664f897651f35455446",
+  "cssd_budget_raw.json": "e2ce078ef56879d52a488572642c5be50f17a730f895fc8d3827f326b807ec89",
+  "cssd_manifest.json": "4816e229286eba7f75af9ab6de9a76473c10376c45cc49965113614b6785ead6"
+ }
+}

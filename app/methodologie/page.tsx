@@ -28,7 +28,7 @@ export default function Methodologie() {
       </section>
 
       <section className="space-y-3">
-        <h2 className="font-display text-2xl">Source des données</h2>
+        <h2 className="font-display text-2xl">Source des données — CSSPO</h2>
         <p className="leading-relaxed text-inksoft">
           Rapports « État des catégories » (logiciel Dofin) obtenus par demande d'accès à
           l'information auprès du CSS des Portages-de-l'Outaouais, pour les exercices 2019-20 à
@@ -45,8 +45,58 @@ export default function Methodologie() {
         </p>
       </section>
 
+      <section className="space-y-3">
+        <h2 className="font-display text-2xl">Source des données — CSS des Draveurs (CSSD)</h2>
+        <p className="leading-relaxed text-inksoft">
+          Une deuxième demande d'accès à l'information (octobre 2025) couvre les écoles primaires du
+          CSS des Draveurs : rapports « Fonds à destination spéciale » (captures d'écran, un rapport
+          par école, 2019-20 → 2023-24) et prévisions budgétaires des établissements (PDF, 2019-20 →
+          2023-24 et 2025-26).
+        </p>
+        <p className="leading-relaxed text-inksoft">
+          Ces documents ne mesurent pas la même chose que ceux du CSSPO. Les rapports FDS du CSSD
+          montrent le <strong className="text-ink">grand livre comptable du fonds</strong> — des{" "}
+          <em>ajouts</em> (transferts vers le fonds) et des <em>appropriations</em> (transferts hors du
+          fonds quand des dépenses liées sont engagées) — et non les revenus et dépenses des campagnes
+          de financement. Exemple vérifié : en 2023-24, une école a réellement amassé 11&nbsp;270&nbsp;$
+          en campagnes et dépensé 7&nbsp;245&nbsp;$, alors que son fonds n'enregistrait qu'un ajout de
+          5&nbsp;416&nbsp;$ et aucune appropriation. Les revenus et dépenses{" "}
+          <strong className="text-ink">réels</strong> des campagnes proviennent, eux, de la colonne
+          « Résultats » des prévisions budgétaires produites deux ans plus tard — disponibles pour
+          2019-20, 2021-22 et 2023-24 (et 2020-21 pour 15 écoles; les autres PDF sont des
+          numérisations illisibles par machine).
+        </p>
+        <p className="leading-relaxed text-inksoft">
+          <strong className="text-ink">C'est pourquoi les écoles du CSSD ne reçoivent pas de note
+          A–F :</strong> appliquer la méthode du CSSPO à un grand livre de transferts serait
+          comptablement invalide. Il n'existe par ailleurs aucun grand livre FDS 2024-25 ni aucun
+          résultat réel 2024-25 de campagnes dans les documents reçus — le dernier exercice complet du
+          CSSD est 2023-24, alors que le CSSPO est noté sur 2024-25. Les deux réseaux ne sont donc pas
+          comparables entre eux, et le site ne les classe jamais l'un contre l'autre.
+        </p>
+        <ul className="list-disc space-y-2 pl-5 text-sm leading-relaxed text-inksoft">
+          <li>
+            Les montants du CSSD sont en <strong className="text-ink">dollars entiers</strong> : ils
+            sont <span className="penmark">rapprochés des totaux imprimés</span> des documents
+            originaux (identités comptables, totaux et continuité des soldes entre exercices, plus une
+            contre-lecture indépendante par reconnaissance de caractères), jamais « au cent près ».
+          </li>
+          <li>
+            Les anomalies des documents sources sont affichées telles quelles avec un avertissement sur
+            la page concernée (listes de projets partielles, incohérence interne de ±180&nbsp;$ dans un
+            rapport, solde restaté entre deux exercices, cellule vierge) — jamais corrigées en douce.
+          </li>
+          <li>
+            L'école de la Traversée change de code (081 → 097) en 2023-24 avec une baisse d'effectif
+            marquée : les deux dossiers sont présentés comme des séries distinctes, la transition
+            n'étant pas confirmée. L'école 076 apparaît en 2023-24 sous deux noms selon le document
+            (« Des Sentiers » / « École Lavigne »).
+          </li>
+        </ul>
+      </section>
+
       <section className="space-y-4">
-        <h2 className="font-display text-2xl">Les trois dimensions de la note</h2>
+        <h2 className="font-display text-2xl">Les trois dimensions de la note (CSSPO seulement)</h2>
         <ol className="space-y-4">
           {[
             { t: `💰 Capacité de financement · ${Math.round(W.fundraising * 100)} %`, d: "Combien l'école amasse en argent (levées de fonds, dons, intérêts), sans aucun ajustement selon la taille de l'école : on mesure la puissance de financement brute, pas un montant par élève. L'école qui amasse le plus obtient 100, les autres en proportion directe. Exemple : en 2024-25, l'école de la Forêt a amassé le plus (133 876 $) et obtient donc 100 ; Euclide-Lanthier, avec 72 107 $, obtient 54 (soit 72 107 ÷ 133 876). C'est une mesure de capacité, pas une vertu — amasser beaucoup reflète souvent un quartier plus aisé qu'un meilleur effort." },

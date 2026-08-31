@@ -67,6 +67,22 @@ h1, h2, h3, .display {
 
 .rule { border-color: var(--rule); }
 
+/* défilement horizontal avec ombres-indices : les dégradés latéraux
+   n'apparaissent que lorsqu'il reste du contenu hors-champ */
+.scroll-x {
+  overflow-x: auto;
+  background-color: #fbf8f1;
+  background-image:
+    linear-gradient(to right, #fbf8f1 30%, rgba(251, 248, 241, 0)),
+    linear-gradient(to left, #fbf8f1 30%, rgba(251, 248, 241, 0)),
+    radial-gradient(farthest-side at 0 50%, rgba(33, 29, 23, 0.22), transparent),
+    radial-gradient(farthest-side at 100% 50%, rgba(33, 29, 23, 0.22), transparent);
+  background-position: 0 0, 100% 0, 0 0, 100% 0;
+  background-repeat: no-repeat;
+  background-size: 48px 100%, 48px 100%, 16px 100%, 16px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+
 /* red-pen underline on emphasis */
 .penmark {
   background-image: linear-gradient(transparent 60%, rgba(181, 40, 27, 0.28) 0);

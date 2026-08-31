@@ -70,6 +70,13 @@ export default function Home() {
           son bulletin détaillé.
         </p>
         <Leaderboard schools={schools} />
+        <p className="text-sm text-inksoft">
+          Votre école est plutôt au CSS des Draveurs?{" "}
+          <Link href="/cssd" className="font-medium text-pen underline decoration-pen/40 underline-offset-2">
+            Voir les données CSSD →
+          </Link>{" "}
+          (sans notes — les documents obtenus ne le permettent pas encore).
+        </p>
       </section>
     </div>
   );

@@ -4,13 +4,16 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const LINKS = [
-  { href: "/", label: "Palmarès" },
+  { href: "/", label: "Palmarès CSSPO" },
+  { href: "/cssd", label: "Données CSSD" },
   { href: "/methodologie", label: "Méthodologie" },
 ];
 
 export default function Nav() {
   const path = usePathname();
-  const isActive = (href: string) => (href === "/" ? path === "/" || path.startsWith("/ecole") : path === href);
+  const isCssd = path.startsWith("/cssd") || path.startsWith("/ecole/cssd");
+  const isActive = (href: string) =>
+    href === "/cssd" ? isCssd : href === "/" ? (path === "/" || path.startsWith("/ecole")) && !isCssd : path === href;
 
   return (
     <nav className="flex items-center gap-5 font-mono text-xs uppercase tracking-widest">
