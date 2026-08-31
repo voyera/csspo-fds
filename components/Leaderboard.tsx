@@ -64,7 +64,7 @@ export default function Leaderboard({ schools }: { schools: School[] }) {
       </div>
 
       {/* Desktop / tablet: ledger table */}
-      <div className="doc hidden overflow-x-auto sm:block">
+      <div className="doc scroll-x hidden sm:block">
         <table className="w-full border-collapse text-sm">
           <thead>
             <tr className="border-b-2 border-ink/70 text-left">
@@ -74,11 +74,17 @@ export default function Leaderboard({ schools }: { schools: School[] }) {
               {COLS.map((c) => (
                 <th
                   key={c.key}
-                  title={c.help}
-                  onClick={() => click(c.key)}
-                  className="cursor-pointer select-none whitespace-nowrap px-3 py-3 text-right font-mono text-[11px] uppercase tracking-widest text-inksoft hover:text-pen"
+                  aria-sort={sort === c.key ? (desc ? "descending" : "ascending") : "none"}
+                  className="px-3 py-3 text-right"
                 >
-                  {c.label}{arrow(c.key)}
+                  <button
+                    type="button"
+                    title={c.help}
+                    onClick={() => click(c.key)}
+                    className="cursor-pointer select-none whitespace-nowrap text-right font-mono text-[11px] uppercase tracking-widest text-inksoft hover:text-pen"
+                  >
+                    {c.label}{arrow(c.key)}
+                  </button>
                 </th>
               ))}
             </tr>
